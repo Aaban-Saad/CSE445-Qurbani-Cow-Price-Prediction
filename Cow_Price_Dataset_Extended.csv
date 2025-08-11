@@ -1,0 +1,1487 @@
+Age,Teeth,Color,Gender,Weight,Horn,Breed,Location,Price
+5,7,White and Red,Male,60.49503306,Yes,Aus,Gazipur,31815.05469
+1,2,Black and Brown,Male,77.28777993,Yes,Deshi,Nilfamari,32670.61943
+4,8,Cross,Male,56.99905835,Yes,Holstein Cross,Mirpur,33131.58034
+3,6,Red,Male,514,No,Brahma,Naogaon,33557
+1,2,White,Male,86.54621234,No,Pakri,Narayanganj,33789.06166
+1,2,Red,Male,213.3270052,No,Jersey,Mymenshing,33914.00706
+3,6,Mixed,Male,587,No,Aus,Chittagong,33992
+5,7,Dark Red,Female,99.8410929,Yes,Holstein Cross,Mirpur,34680.27246
+1,2,Dark Red,Male,379,Yes,Holstein Friesian,Pabna,35083
+4,7,Black,Male,73.37511523,Yes,Shahiwal,Dhaka,35210.31853
+3,5,Brown,Male,327,No,Deshi,Kurigram,35599
+3,6,Brown,Male,80.05609235,Yes,Holstein Friesian,Gazipur,36382.82493
+4,8,Mixed,Male,107.1858563,No,Shahiwal,Tebunia,37279.63158
+2,3,Cross,Male,128.18404,Yes,Deshal,Mymenshing,38112.80989
+2,4,Black and Brown,Female,453,Yes,Brahma cross,Narayanganj,38434
+3,5,Black,Male,292,No,Pakri,Chittagong,38491
+4,8,Red,Male,70.9662716,Yes,Holstein Friesian,Nilfamari,38737.39374
+4,8,Brown,Male,77.08357744,No,Cross,Mymenshing,39067.58216
+1,2,Dark Red,Female,62.52710066,No,Hybrid,Tebunia,39406.2743
+2,4,Red,Female,68.39833766,No,Holstein Friesian,Mymenshing,39432.25516
+2,2,Brown,Male,66.11081654,Yes,Deshi,Tebunia,39536.81504
+3,4,Light Red,Female,529,No,Shahiwal,Bogura,40586
+2,3,Ash,Male,154.2401197,No,Deshi,Nilfamari,40804.85555
+1,2,Dark Red,Male,77.08692558,Yes,Nafimoni,Mirpur,40836.00267
+1,2,Dark Red,Female,85.92976421,No,Cross,Kishoreganj,41932.17664
+2,4,Black and White,Male,95.65068206,Yes,Deshi,Kishoreganj,42305.63823
+1,2,Mixed,Male,102.531336,No,Holstein Cross,Tebunia,43280.30491
+3,6,Mixed,Female,197.8036633,No,Shahiwal,Gazipur,43388.20348
+2,3,Black,Male,88,Yes,Brahma,Rangpur,43568
+3,4,Dark Red,Female,76,No,Brahma cross,Gazipur,44321
+5,7,Black,Male,64.6646146,Yes,Nafimoni,Mymenshing,44722.62787
+3,5,Red,Male,130.288689,No,Shahiwal,Mymenshing,44783.26429
+1,2,White,Male,87.35392798,Yes,Deshi,Gazipur,45611.17022
+4,7,Black and Brown,Male,125.9719393,No,Brahma cross,Pabna,45863.78387
+1,2,Dark Red,Male,74.98366564,No,Holstein Cross,Gazipur,46475.81108
+1,2,White,Male,86.63777748,Yes,Local,Dhaka,46647.29291
+5,7,Red,Female,96.74599029,Yes,Jersey,Mirpur,46934.98579
+2,2,Black and Brown,Male,91.98928086,No,Deshi,Tebunia,47190.37888
+3,4,Red and Brown,Male,490,No,Brahma,Sharifganj,47665
+3,5,Black,Female,74.55954864,No,Holstein Cross,Kishoreganj,47798.48907
+2,2,Light Red,Female,531,Yes,Deshal,Kushtia,48255
+3,6,Black and Brown,Male,239,Yes,Shahiwal,Tebunia,49125
+1,2,Red,Male,86.98713219,Yes,Shahiwal,Nilfamari,50155.73997
+3,5,Black,Male,250.6000133,Yes,Deshal,Sabujbagh,51692.47904
+3,5,Red and Brown,Male,88.85745481,Yes,Nafimoni,Chittagong,53729.67835
+3,4,Light Red,Male,361,No,Pakri,Sharifganj,54348
+4,7,Red and Brown,Female,178.1495674,No,Cross,Dhaka,54580.69395
+4,8,Ash,Male,95.46848363,No,Deshal,Sylhet,55566.01993
+4,7,Cross,Male,164.0100092,No,Deshal,Gazipur,56086.44301
+2,2,White and Red,Male,1,No,Holstein Cross,Tebunia,56369
+3,5,Red,Male,119.6716431,Yes,Aus,Mymenshing,57577.33918
+2,3,Cross,Male,175.1307245,No,Holstein Cross,Tebunia,57712.65542
+1,2,Red,Male,164.0000976,No,Brahma cross,Naogaon,57904.22921
+5,7,Brown,Male,159.7459164,No,Deshal,Mymenshing,58136.67673
+1,2,Cross,Male,115.052223,Yes,Shahiwal,Tebunia,58248.07373
+4,7,Dark Red,Male,170.2092015,No,Local,Mymenshing,58443.84855
+1,2,White and Red,Male,82.53225766,Yes,Shahiwal,Naogaon,58553.82742
+2,3,Red and Brown,Female,1,Yes,Aus,Naogaon,60118
+3,4,White,Male,124.0047721,Yes,Deshal,Kushtia,60470.07797
+3,5,Brown,Male,201.1261202,Yes,Holstein Cross,Kushtia,60509.69277
+3,5,Black,Male,101.4895863,No,Deshal,Kushtia,60614.5811
+3,4,Ash,Male,284.1526749,No,Brahma,Kurigram,60912.4772
+3,5,Red and Brown,Male,146.9630264,Yes,Deshal,Kishoreganj,61600.71989
+3,6,Light Red,Female,367,Yes,Nafimoni,Mirpur,61739
+2,3,Ash,Male,195.3985139,Yes,Holstein Cross,Rangpur,61981.76126
+5,7,Cross,Male,118.2192109,No,Deshal,Kushtia,62125.86601
+1,2,White,Female,160.4905483,No,Deshal,Tebunia,62203.14704
+5,7,Cross,Male,141.7806159,No,Holstein Cross,Chittagong,62626.53165
+3,4,Red and Brown,Female,20,Yes,Shahiwal,Mymenshing,63115
+1,2,Black,Male,142.2377443,Yes,Brahma cross,Mymenshing,63133.8728
+2,3,Black and White,Female,422,No,Deshal,Naogaon,63238
+3,6,Black,Male,189.1638647,No,Pakri,Mymenshing,63654.41123
+2,4,Light Red,Male,1,Yes,Shahiwal,Sabujbagh,64160
+5,7,Red,Male,106.4243226,Yes,Shahiwal,Kurigram,64214.85522
+3,5,White,Female,101,Yes,Shahiwal,Mymenshing,64219
+2,2,Red and Brown,Male,89.24303302,No,Holstein Cross,Kurigram,64601.70567
+3,5,Black,Male,154.15396,Yes,Shahiwal,Bogura,64694.52343
+2,3,Black,Male,7,Yes,Local,Bogura,65000
+2,2,Red,Male,7.5,Yes,Local,Bogura,65000
+2,2,Red,Male,116.2094564,No,Deshal,Sylhet,65753.82755
+2,2,Red,Male,142.6465616,Yes,Deshal,Gazipur,67164.89165
+3,6,White,Female,430,No,Nafimoni,Sharifganj,67321
+2,4,Ash,Male,122,No,Hybrid,Chittagong,67382
+5,7,Red and Brown,Male,307.6553029,No,Holstein Friesian,Tebunia,68180.25156
+1,2,Red and Brown,Male,236.0744268,No,Brahma,Mirpur,68231.49972
+5,7,Black,Male,142.8224768,Yes,Nepali,Mymenshing,69093.52347
+5,7,Black and White,Male,142.1052991,Yes,Nepali,Pabna,69302.9297
+2,3,Black,Male,80,Yes,Local,Nilfamari,70000
+2,2,Red,Male,80,No,Local,Nilfamari,70000
+2,2,White,Male,80,No,Local,Nilfamari,70000
+5,7,Cross,Female,212.7494248,Yes,Deshal,Sharifganj,70382.84551
+2,2,Ash,Female,127,Yes,Cross,Kishoreganj,70503
+2,4,Cross,Male,155.2016312,No,Jersey,Kurigram,70631.54091
+3,6,Cross,Male,179.4631359,Yes,Deshal,Gazipur,70759.09013
+3,5,Brown,Male,20,Yes,Shahiwal,Kurigram,70876
+3,5,Black and Brown,Female,336,No,Holstein Cross,Sylhet,71397
+3,6,White,Female,156.2596435,Yes,Deshi,Kushtia,71415.157
+2,2,Red and Brown,Male,567,Yes,Shahiwal,Tebunia,71589
+4,8,Black and Brown,Male,125.6565844,Yes,Holstein Cross,Mymenshing,71854.87016
+4,7,Mixed,Male,146.9726727,No,Holstein Cross,Mymenshing,72088.40017
+1,2,Ash,Male,155.4145969,Yes,Deshal,Sharifganj,72198.87171
+2,3,Red,Female,117.566512,Yes,Pakri,Chittagong,72285.14667
+1,2,White,Male,185.2846405,Yes,Deshal,Kushtia,72562.027
+2,4,Dark Red,Female,245,No,Aus,Gazipur,72698
+2,2,Black,Male,247,No,Deshal,Sharifganj,73654
+2,2,Cross,Female,239.8249956,Yes,Deshi,Sharifganj,74027.76519
+1,2,White and Red,Male,223.036519,No,Jersey,Mymenshing,74417.49577
+3,5,Brown,Female,325,Yes,Nepali,Kurigram,74467
+5,7,Black and White,Female,148.2181068,Yes,Shahiwal,Mymenshing,74609.18297
+1,2,Black,Male,160,Yes,Deshi,Pabna,75000
+1,2,Black,Male,204.1649623,No,Deshi,Mymenshing,75007.38317
+1,2,Red and Brown,Male,204.7487194,Yes,Deshal,Naogaon,75349.98946
+2,4,Black and White,Female,234,No,Nafimoni,Naogaon,75489
+3,5,Black and Brown,Female,170.9956845,No,Shahiwal,Sylhet,75529.2158
+1,2,Black and White,Male,184.6369985,No,Shahiwal,Dhaka,75690.31046
+3,6,Black,Female,143.6844825,Yes,Pakri,Nilfamari,77012.05938
+2,4,Black and White,Male,135.7078887,Yes,Deshi,Kushtia,78866.2965
+2,4,Dark Red,Female,215.1981791,Yes,Deshi,Tebunia,79181.56981
+5,7,Ash,Male,212.0662051,Yes,Deshal,Gazipur,79499.94454
+3,4,Cross,Male,155.1551141,Yes,Holstein Cross,Mirpur,79613.97735
+5,7,White and Red,Female,217.0506237,Yes,Shahiwal,Pabna,79682.48887
+5,7,Mixed,Female,160.2186212,Yes,Local,Dhaka,79788.95015
+1,2,Black,Female,203.6238023,Yes,Pakri,Mymenshing,79851.2483
+2,2,Black,Male,80,Yes,Deshi,Nilfamari,80000
+4,8,Cross,Male,278.1773292,No,Pakri,Mymenshing,81413.23933
+3,6,Black,Male,284,No,Hybrid,Tebunia,81485
+2,2,Black and White,Female,137.8717751,Yes,Deshal,Pabna,82089.2547
+3,6,White and Red,Female,112,No,Brahma cross,Kushtia,82137
+4,7,Red,Male,188.7715024,Yes,Deshi,Naogaon,82609.54347
+3,6,Mixed,Female,229.8052105,No,Holstein Cross,Naogaon,82612.63581
+5,7,Black,Female,277.4937486,No,Deshal,Dhaka,82792.89491
+2,4,Ash,Male,489,No,Nepali,Pabna,82876
+5,7,Mixed,Female,152.1576372,No,Deshal,Kushtia,83252.8417
+3,6,Mixed,Male,280,No,Brahma,Mymenshing,83281
+4,7,Cross,Male,225.672249,No,Nepali,Kurigram,83920.92058
+2,4,White,Male,202.4719054,Yes,Holstein Cross,Dhaka,84094.87965
+1,2,Red,Male,224.9271502,Yes,Deshi,Naogaon,84112.83936
+4,6,Black,Female,203.0204676,Yes,Deshi,Gazipur,84227.14291
+5,7,Black,Male,269.9299926,No,Jersey,Tebunia,84341.17351
+2,4,Red,Male,126.9794842,Yes,Deshal,Gazipur,84474.8278
+3,4,Black and White,Female,173,No,Cross,Naogaon,84509
+1,2,Red,Male,131.7515901,No,Holstein Friesian,Mymenshing,84689.63538
+2,4,Red,Male,292.8707255,Yes,Shahiwal,Pabna,84698.89418
+2,3,Black,Male,90,Yes,Local,Nilfamari,85000
+1,2,Red,Male,90,No,Deshi,Rangpur,85000
+1,2,Black,Male,200,Yes,Deshi,Pabna,85000
+3,5,Brown,Male,267.5247468,Yes,Cross,Mymenshing,85145.76467
+2,2,Dark Red,Female,162.8873793,Yes,Deshi,Tebunia,85308.3525
+2,3,Brown,Female,365.3315524,Yes,Deshal,Bogura,85349.66318
+4,6,Brown,Female,130.3246861,Yes,Nafimoni,Chittagong,85489.01853
+3,5,Red and Brown,Male,343,Yes,Brahma,Kushtia,85501
+2,3,Red,Male,267.9146358,No,Deshi,Naogaon,85974.48314
+5,7,Black,Female,324.4376643,No,Holstein Cross,Kurigram,87588.67645
+3,4,Black,Male,188.7665696,Yes,Holstein Cross,Mymenshing,87960.55726
+3,5,Black and White,Female,269,Yes,Brahma,Kishoreganj,88420
+5,7,Black and Brown,Female,257.5454452,Yes,Deshal,Mymenshing,88470.80236
+3,5,Black and Brown,Male,194.6696135,Yes,Deshal,Chittagong,88530.17193
+5,7,White,Male,152.8848353,Yes,Holstein Cross,Kushtia,88656.1812
+4,8,White and Red,Male,169.2750734,Yes,Deshi,Dhaka,88682.20234
+1,2,Black and Brown,Male,295.0376278,No,Nafimoni,Tebunia,88709.04144
+1,2,Red,Male,164.9964392,Yes,Brahma cross,Mymenshing,88738.31615
+2,2,Black and White,Female,160.2044868,Yes,Cross,Sharifganj,89081.21134
+3,4,Red,Male,164.6532702,Yes,Shahiwal,Tebunia,89153.54135
+4,7,Cross,Male,822,No,Cross,Kurigram,89204
+3,6,White and Red,Male,211,No,Jersey,Tebunia,89674
+5,7,Red,Male,150.2175631,Yes,Hybrid,Tebunia,89699.5732
+2,3,Light Red,Male,186.4526593,Yes,Shahiwal,Kushtia,89750.3906
+3,6,Black and White,Male,196.5456239,Yes,Deshal,Mymenshing,89906.11488
+2,2,Light Red,Male,314.6277341,Yes,Nafimoni,Bogura,90346.66874
+3,6,Black,Male,224.5827623,No,Deshal,Kurigram,90363.94133
+3,6,Red and Brown,Female,348,Yes,Cross,Dhaka,91026
+2,3,Red,Female,256.478325,Yes,Deshal,Naogaon,91053.01675
+4,8,Mixed,Male,137.593776,Yes,Deshi,Naogaon,91246.453
+5,7,Black,Male,268.2668475,No,Holstein Cross,Dhaka,91922.86646
+4,7,Red,Male,271.3613676,Yes,Cross,Naogaon,91938.86616
+3,6,Black,Male,423,No,Shahiwal,Kushtia,91974
+5,7,Black and White,Male,198.5418369,Yes,Deshal,Sylhet,92131.59321
+1,2,Ash,Male,165.9752775,Yes,Deshal,Tebunia,92305.93942
+4,6,White,Male,174.9426901,Yes,Cross,Kurigram,92437.0516
+5,7,Red,Female,164.6574345,No,Local,Mymenshing,92466.76677
+2,4,Black and Brown,Male,159.5296961,Yes,Holstein Cross,Mymenshing,94086.92966
+2,3,Red,Female,210.9770761,No,Cross,Tebunia,94258.10754
+3,4,Light Red,Male,160.0576707,Yes,Hybrid,Tebunia,94524.89199
+3,4,Black,Female,147.9636622,Yes,Deshal,Tebunia,94866.55863
+2,4,Cross,Male,2,Yes,Hybrid,Sabujbagh,94872
+5,7,Brown,Male,339.0142508,Yes,Jersey,Narayanganj,95061.11101
+1,2,Red,Male,265.9834122,Yes,Nepali,Mymenshing,95094.80738
+4,8,Red,Female,268.0694684,Yes,Shahiwal,Tebunia,95110.38093
+3,6,White,Female,441,No,Local,Naogaon,95330
+2,2,Red,Male,180,Yes,Deshal,Gazipur,95400
+2,3,Black and Brown,Female,194.8868943,Yes,Holstein Cross,Kurigram,95487.54259
+4,7,Ash,Female,262.7876062,No,Shahiwal,Kushtia,95497.37752
+1,2,Red,Male,229.5534468,Yes,Pakri,Mymenshing,95536.23981
+1,2,Black,Male,222.4044891,No,Pakri,Nilfamari,96393.3011
+3,6,Red,Female,150.3352342,No,Holstein Friesian,Narayanganj,96474.0921
+2,2,Light Red,Male,227.0690568,Yes,Deshal,Kurigram,96726.22035
+5,7,Mixed,Female,177.5271434,Yes,Deshal,Mymenshing,96917.68409
+5,7,Black and White,Male,289.415038,No,Hybrid,Mymenshing,96989.74811
+3,4,Cross,Male,182.9592733,Yes,Nepali,Gazipur,97274.60192
+2,2,Red and Brown,Male,377,No,Brahma,Mymenshing,97322
+2,2,Black,Male,190.3649923,No,Holstein Cross,Mymenshing,97541.06049
+2,3,Brown,Male,465,Yes,Holstein Cross,Sylhet,97581
+3,4,Red,Female,196.4977192,Yes,Deshi,Kushtia,97692.25553
+4,8,Black and Brown,Female,228.3940968,No,Deshi,Mymenshing,97870.17186
+3,6,Red,Male,184.5887864,No,Aus,Tebunia,98007.38789
+3,4,Cross,Male,214,Yes,Shahiwal,Tebunia,98450
+2,2,Light Red,Male,546,Yes,Deshal,Pabna,99330
+3,5,Cross,Female,519,No,Deshal,Bogura,99601
+3,4,Black and White,Male,336.0649196,Yes,Shahiwal,Nilfamari,99647.50954
+3,4,Cross,Female,157,Yes,Deshal,Sabujbagh,99674
+3,6,Black and Brown,Male,205.2048251,Yes,Holstein Friesian,Pabna,99963.61528
+2,3,Red,Male,90,Yes,Local,Kishoreganj,100000
+2,4,Black,Male,100,No,Nafimoni,Nilfamari,100000
+2,3,Red,Male,100,No,Deshi,Nilfamari,100000
+2,2,Black,Male,110,Yes,Local,Nilfamari,100000
+2,3,Black,Male,110,Yes,Deshi,Nilfamari,100000
+4,6,Black,Male,177.4268006,No,Holstein Friesian,Mymenshing,100274.1913
+5,7,Brown,Female,232.6722935,Yes,Shahiwal,Mymenshing,100343.1023
+2,2,White,Male,741,No,Holstein Friesian,Tebunia,100431
+1,2,White,Male,185.6039693,Yes,Deshal,Chittagong,100538.6618
+1,2,Brown,Male,232.7182447,Yes,Nafimoni,Nilfamari,100828.5696
+3,6,Black and Brown,Male,580,Yes,Local,Gazipur,101054
+2,3,White and Red,Male,323.150086,No,Brahma cross,Gazipur,101133.4268
+3,6,Black,Male,304.6340804,No,Nepali,Kushtia,101604.7498
+2,4,Mixed,Female,564,No,Brahma,Dhaka,101777
+5,7,Red,Male,333.3358924,Yes,Deshal,Tebunia,101996.6183
+5,7,Red,Male,238.2709929,Yes,Deshal,Tebunia,102009.8267
+3,5,Black,Male,206,No,Shahiwal,Mymenshing,102200
+1,2,White,Male,220.4727805,No,Jersey,Mirpur,102299.303
+2,3,Brown,Male,196.9108186,Yes,Hybrid,Dhaka,102827.0914
+1,2,White,Male,243.2818019,Yes,Cross,Mymenshing,102926.4302
+2,2,Cross,Female,268,Yes,Deshal,Dhaka,103219
+4,7,Black,Male,179.6087485,Yes,Cross,Kushtia,103383.8792
+2,2,Light Red,Female,140,Yes,Pakri,Dhaka,103433
+2,3,Black and White,Male,210.6253082,Yes,Holstein Cross,Mymenshing,103441.8268
+2,2,Black,Male,257.5185963,No,Hybrid,Pabna,103789.7883
+2,3,Cross,Male,220.2917123,Yes,Holstein Friesian,Gazipur,103795.2647
+4,7,Cross,Male,231.4874835,No,Holstein Friesian,Nilfamari,104025.5953
+2,2,Cross,Male,268.7091099,Yes,Hybrid,Gazipur,104624.6735
+2,4,Red,Male,607,Yes,Nepali,Naogaon,104665
+2,2,Red,Male,3.5,Yes,Local,Mymenshing,105000
+3,4,Brown,Male,215.2826027,No,Deshal,Bogura,105241.162
+3,6,Dark Red,Male,275.2348631,No,Deshi,Kushtia,105434.5635
+2,2,Red and Brown,Male,188,No,Deshi,Naogaon,105600
+4,6,Ash,Male,202.1225198,Yes,Deshal,Mirpur,105862.6565
+1,2,Black,Male,168.4946335,Yes,Deshal,Gazipur,105894.4176
+1,2,Black and White,Male,388,Yes,Deshi,Sylhet,106256
+5,7,Red,Female,321.6354516,Yes,Deshal,Pabna,106310.8061
+2,4,Cross,Male,501,Yes,Cross,Dhaka,106419
+4,8,Black,Male,278.3370481,No,Deshal,Kushtia,106442.2535
+4,7,Red,Male,247.9788691,Yes,Shahiwal,Naogaon,106489.8632
+3,6,Brown,Male,285.6634381,No,Holstein Cross,Mymenshing,106536.03
+3,6,Red,Male,202,Yes,Deshal,Tebunia,106550
+2,2,Ash,Male,201,No,Deshal,Tebunia,106900
+4,6,White,Male,272.8604155,Yes,Aus,Mymenshing,107178.3791
+4,7,Black,Female,251.6675942,Yes,Shahiwal,Mymenshing,107419.9283
+2,4,Dark Red,Male,238.4923313,Yes,Deshi,Gazipur,107456.9219
+4,8,Cross,Male,231.8239942,Yes,Brahma cross,Mymenshing,107483.5892
+2,4,Red,Male,235.1358601,No,Holstein Cross,Gazipur,107513.2184
+5,7,Red,Male,170.7387868,Yes,Holstein Cross,Narayanganj,107851.0695
+1,2,Brown,Male,171.5499161,Yes,Deshal,Mymenshing,107930.6941
+3,5,Red,Female,159.8778032,Yes,Jersey,Gazipur,108010.4258
+1,2,White,Male,294.8657524,Yes,Shahiwal,Kurigram,108321.8187
+4,6,Red,Female,228.6760831,No,Deshal,Gazipur,108486.5511
+2,4,Ash,Male,205,Yes,Deshal,Kurigram,108650
+4,8,Ash,Male,198.7117603,Yes,Jersey,Gazipur,108855.7714
+1,2,Brown,Male,189.9510497,No,Brahma cross,Bogura,109048.8989
+2,3,Red and Brown,Female,232.688197,Yes,Hybrid,Rangpur,109072.4099
+1,2,Brown,Male,224.1232381,No,Holstein Cross,Naogaon,109302.5371
+1,2,White and Red,Female,198.6628282,Yes,Shahiwal,Kushtia,109366.9094
+3,5,Red,Female,195,No,Hybrid,Dhaka,109502
+2,4,Ash,Female,257.0296193,No,Holstein Cross,Mirpur,109652.2708
+4,8,Red,Male,236.5773136,Yes,Hybrid,Naogaon,109701.6084
+4,7,Ash,Male,287.616954,Yes,Deshal,Dhaka,109766.1781
+2,2,White,Male,240.2411977,No,Holstein Friesian,Sylhet,109793.7152
+2,3,Cross,Male,216,Yes,Deshal,Mymenshing,109900
+3,6,Black and Brown,Male,286.005061,No,Deshal,Mymenshing,109985.5658
+2,2,Red,Male,6,Yes,Local,Bogura,110000
+2,2,Black,Male,6.5,Yes,Local,Bogura,110000
+1,2,Red,Female,238.8909555,No,Shahiwal,Kurigram,110179.4985
+2,2,Mixed,Male,99,Yes,Hybrid,Dhaka,110228
+3,4,Red,Male,268.72494,Yes,Deshal,Kushtia,110381.4644
+1,2,White and Red,Female,407.7044078,No,Shahiwal,Sabujbagh,110489.4461
+2,2,White,Male,242.6591572,Yes,Hybrid,Mymenshing,110707.6589
+5,7,Red,Male,304.9308314,Yes,Deshal,Mymenshing,110711.1893
+5,7,White,Male,216.2404542,No,Brahma cross,Mymenshing,111594.1467
+1,2,Brown,Male,420,No,Holstein Friesian,Nilfamari,112141
+2,3,White,Male,295.7693443,Yes,Aus,Mymenshing,112274.3302
+2,2,Red,Male,200,Yes,Shahiwal,Mymenshing,112750
+2,2,Red,Male,296.8797252,Yes,Shahiwal,Narayanganj,112760.9386
+1,2,Mixed,Female,254.1490267,No,Holstein Cross,Mymenshing,112904.9283
+3,4,Black and Brown,Female,343,Yes,Deshal,Mirpur,113117
+5,7,Dark Red,Male,216.0731404,Yes,Holstein Cross,Kurigram,113174.1814
+5,7,Brown,Male,253.3861147,Yes,Brahma cross,Rangpur,113187.4521
+1,2,Black,Male,323.5867583,Yes,Shahiwal,Kurigram,113256.9556
+1,2,Ash,Male,186.1132713,Yes,Shahiwal,Rangpur,113302.2431
+4,7,Ash,Male,260.9872108,Yes,Local,Mymenshing,113518.6313
+5,7,Brown,Male,243.1956555,No,Shahiwal,Sharifganj,113715.6471
+3,5,Black and White,Male,320.1011321,Yes,Holstein Cross,Bogura,113923.1177
+2,4,Red,Male,340.862138,Yes,Brahma,Sharifganj,114539.7023
+2,2,Black and Brown,Female,283.8643025,Yes,Deshal,Tebunia,114742.5087
+1,2,White,Male,347.7469513,Yes,Holstein Cross,Mymenshing,114752.662
+3,4,Black and Brown,Female,560,No,Local,Gazipur,114946
+3,5,White and Red,Female,340,Yes,Cross,Nilfamari,114987
+3,6,Black,Male,296.4498453,Yes,Deshal,Gazipur,115160.7615
+3,6,Red,Male,253.7609865,Yes,Hybrid,Narayanganj,115213.1114
+1,2,Red,Male,287.8247922,Yes,Deshi,Kushtia,115330.8713
+4,8,Black,Female,247.9674031,Yes,Local,Rangpur,115410.6613
+1,2,Light Red,Female,1,No,Local,Tebunia,115429
+2,4,Red,Male,218,Yes,Shahiwal,Tebunia,115540
+4,7,Black,Male,257.802336,No,Shahiwal,Gazipur,115541.0922
+3,5,Red,Female,481,No,Jersey,Tebunia,116141
+4,6,Cross,Male,224.6444097,Yes,Deshi,Nilfamari,116195.2931
+4,7,Black,Female,349.2406505,No,Pakri,Gazipur,116222.468
+3,6,Cross,Male,285.346682,Yes,Hybrid,Chittagong,116251.1851
+2,4,Light Red,Male,264.9043854,Yes,Shahiwal,Mymenshing,116285.461
+5,7,Red and Brown,Male,251.8712383,Yes,Jersey,Narayanganj,116286.0663
+3,4,Ash,Male,220.9285047,No,Holstein Cross,Gazipur,116486.4364
+1,2,Mixed,Male,218.8200494,No,Shahiwal,Nilfamari,116695.5973
+2,4,Red,Male,244.1185375,Yes,Hybrid,Narayanganj,117048.0907
+3,6,Mixed,Male,299,No,Brahma,Tebunia,117327
+1,2,Ash,Male,185.4993188,Yes,Brahma cross,Sharifganj,117504.7081
+2,4,White,Male,253,Yes,Deshal,Kushtia,117700
+2,2,Red,Male,186,Yes,Deshi,Dhaka,118000
+1,2,Red,Male,306.1109152,No,Deshal,Sabujbagh,118134.6065
+2,2,Red,Male,215,Yes,Deshal,Mymenshing,118250
+5,7,Brown,Male,231.3234807,Yes,Holstein Cross,Bogura,118482.1855
+2,2,Cross,Male,224,Yes,Shahiwal,Mymenshing,118750
+4,6,Black,Male,241.2507763,No,Nafimoni,Mymenshing,118899.8677
+5,7,Ash,Male,238.5806422,No,Nepali,Naogaon,118937.7339
+3,5,Red,Male,208.5255035,Yes,Shahiwal,Nilfamari,118937.7872
+2,2,Black and Brown,Male,217,Yes,Deshi,Naogaon,119350
+2,4,Ash,Male,259,No,Deshal,Gazipur,119400
+4,7,Ash,Female,230.6428101,No,Brahma,Mymenshing,119640.2688
+3,6,Cross,Female,228,No,Deshi,Bogura,119677
+4,6,Ash,Female,234.6401776,Yes,Nafimoni,Naogaon,119833.5562
+4,8,White,Female,392,Yes,Nafimoni,Rangpur,119938
+2,4,Black,Male,9.5,Yes,Local,Pabna,120000
+2,3,Black and Brown,Male,100,Yes,Deshi,Sylhet,120000
+3,4,Black and White,Male,220,Yes,Deshi,Naogaon,120000
+2,3,Black,Male,294.1062181,No,Shahiwal,Gazipur,120016.3433
+2,3,Dark Red,Female,258.1558089,No,Brahma,Rangpur,120149.6867
+3,6,Black,Female,220.2049625,Yes,Nafimoni,Tebunia,120363.2522
+1,2,Light Red,Male,268.7685868,No,Local,Mymenshing,120646.1267
+3,5,White,Male,295.2135134,No,Brahma,Chittagong,120833.2245
+3,6,Black,Male,220,Yes,Deshi,Naogaon,121000
+1,2,Brown,Male,311.4543164,No,Shahiwal,Sabujbagh,121151.8561
+3,6,Red,Male,204.2308832,No,Holstein Cross,Tebunia,121396.588
+4,6,White,Male,234.1772058,No,Shahiwal,Tebunia,121580.063
+2,2,Black,Male,371,No,Local,Mymenshing,121621
+3,6,Brown,Female,263.0116057,No,Deshal,Naogaon,121677.5441
+5,7,Black and White,Male,177.2652036,No,Holstein Friesian,Kurigram,121705.6069
+1,2,Red,Male,269.9122871,Yes,Shahiwal,Kushtia,121766.1093
+2,4,Black,Male,252,No,Deshal,Gazipur,122150
+1,2,Brown,Male,241.2913279,Yes,Deshal,Bogura,122278.8595
+2,4,Black and White,Female,454,Yes,Deshi,Kishoreganj,122322
+2,3,Red,Male,244,Yes,Shahiwal,Kushtia,122350
+2,4,Red,Male,215.7138017,Yes,Local,Naogaon,122362.9519
+2,4,White and Red,Female,514,No,Pakri,Mymenshing,122363
+3,6,Black,Male,220,Yes,Deshi,Naogaon,122650
+1,2,White,Female,237.4989676,Yes,Shahiwal,Dhaka,122687.2921
+1,2,Black and Brown,Male,289.5831803,No,Deshal,Tebunia,122944.6705
+5,7,Ash,Male,338.4996844,Yes,Deshal,Mymenshing,123125.3544
+2,2,Red,Male,200,Yes,Deshal,Gazipur,123650
+2,2,Black,Male,218,No,Deshal,Kushtia,123650
+4,6,Ash,Female,267.0955034,No,Local,Kishoreganj,123702.8933
+2,4,Brown,Male,225,No,Deshi,Naogaon,123750
+2,4,Ash,Male,247,Yes,Deshal,Tebunia,123900
+5,7,Red,Male,246.693134,No,Pakri,Kushtia,124106.3921
+5,7,Red,Male,346.3461047,Yes,Holstein Cross,Mirpur,124545.6255
+4,6,Black,Male,265.143056,Yes,Deshi,Nilfamari,124592.4465
+3,5,Black and Brown,Male,229,Yes,Deshi,Naogaon,125000
+2,4,Black,Male,603,Yes,Deshal,Kushtia,125208
+3,4,Mixed,Female,364,Yes,Shahiwal,Sylhet,125252
+4,7,Light Red,Male,230.6481975,Yes,Holstein Friesian,Chittagong,125298.101
+2,4,Dark Red,Male,336,No,Deshal,Naogaon,125321
+2,2,Mixed,Male,202.537277,Yes,Shahiwal,Kushtia,125400.9112
+4,6,Red,Male,271.1070948,Yes,Deshi,Naogaon,125607.9894
+5,7,White,Female,263.3007738,No,Holstein Cross,Kishoreganj,125658.0176
+3,4,Red and Brown,Male,314.0925991,Yes,Deshal,Sharifganj,125918.2033
+1,2,Cross,Male,291.6257592,No,Deshal,Mymenshing,125974.5866
+2,4,Red,Male,240,Yes,Deshal,Mymenshing,126000
+2,2,Cross,Male,387,Yes,Holstein Cross,Sharifganj,126041
+4,6,Cross,Male,353.4176882,Yes,Hybrid,Mymenshing,126077.3145
+1,2,Cross,Male,225.4982454,Yes,Nafimoni,Kushtia,126630.8291
+3,5,Brown,Female,155,Yes,Shahiwal,Kushtia,126737
+2,3,Mixed,Male,38,Yes,Pakri,Gazipur,126931
+3,5,Cross,Male,247.5368502,Yes,Local,Mymenshing,126946.085
+2,3,Brown,Female,249.3928168,Yes,Deshal,Mymenshing,126959.2666
+2,4,Red,Male,242,Yes,Deshal,Mymenshing,127050
+2,2,Red,Male,242,Yes,Deshal,Mymenshing,127050
+4,8,Red,Male,287.2140652,Yes,Holstein Cross,Kurigram,127197.367
+2,3,Ash,Male,296.4274044,Yes,Nepali,Gazipur,127235.8067
+2,2,Red,Male,243,Yes,Deshal,Mymenshing,127575
+5,7,Red,Male,257.4930662,Yes,Shahiwal,Dhaka,127657.768
+4,8,Brown,Male,311.8852545,Yes,Holstein Cross,Pabna,127699.734
+4,8,Red and Brown,Male,262.9495536,Yes,Local,Sharifganj,127831.4655
+3,4,Black,Male,230,Yes,Deshi,Naogaon,128150
+3,6,Mixed,Male,221.3529532,Yes,Deshal,Sharifganj,128173.9909
+3,4,Black,Male,534,Yes,Aus,Rangpur,128374
+3,4,Cross,Male,490,Yes,Nafimoni,Kurigram,128417
+3,5,Ash,Male,471,No,Jersey,Mymenshing,128499
+1,2,Black and White,Male,226.848943,Yes,Holstein Cross,Mymenshing,128512.3742
+2,3,Ash,Male,225.9867652,Yes,Deshal,Nilfamari,128571.7347
+2,4,Black and White,Female,197.5319412,Yes,Cross,Mymenshing,128654.934
+2,2,Ash,Male,239,No,Deshal,Kurigram,128800
+4,7,Mixed,Male,300.6544233,Yes,Deshi,Mymenshing,128834.4398
+5,7,Cross,Male,350.7078479,Yes,Holstein Cross,Dhaka,128877.3896
+5,7,Red,Male,276.2992383,Yes,Deshal,Gazipur,128913.0696
+3,4,Black,Male,256.4601701,No,Deshal,Mymenshing,129046.7742
+3,4,White,Male,326.1943778,Yes,Shahiwal,Mymenshing,129171.57
+5,7,White,Male,272.3398689,No,Deshal,Kushtia,129235.016
+2,4,White and Red,Female,245.611658,Yes,Holstein Cross,Kurigram,129274.4861
+2,4,Red,Female,208.0120011,Yes,Deshal,Kushtia,129729.8509
+5,7,Mixed,Female,229.1485465,Yes,Local,Chittagong,129824.5065
+3,6,Mixed,Female,239,Yes,Holstein Friesian,Mymenshing,129926
+5,7,Black,Male,318.4117317,No,Deshal,Naogaon,129939.167
+5,7,White and Red,Male,273.4379593,Yes,Brahma cross,Sabujbagh,129987.8246
+1,2,Ash,Male,227.2257822,Yes,Holstein Cross,Mymenshing,130490.5343
+3,6,Red,Male,296.4562453,Yes,Cross,Nilfamari,130570.996
+1,2,Brown,Male,287.6543161,No,Deshi,Dhaka,130663.8133
+1,2,Red,Male,302.4778242,No,Shahiwal,Pabna,130807.1748
+2,3,Brown,Male,277.2702544,Yes,Holstein Cross,Chittagong,130881.1881
+4,8,Brown,Male,279.1736866,Yes,Hybrid,Naogaon,130984.2449
+2,2,Black,Male,258,No,Deshal,Tebunia,131050
+2,2,White,Male,204,Yes,Shahiwal,Mymenshing,131250
+4,6,Black,Male,240.2562467,Yes,Holstein Cross,Kushtia,131321.1983
+2,3,Black,Male,275,Yes,Deshal,Mymenshing,131450
+3,6,Red,Male,438.1587602,Yes,Holstein Cross,Rangpur,131481.9955
+2,3,Cross,Male,254.7779026,Yes,Local,Kushtia,131552.6087
+3,5,Red,Male,283,No,Holstein Friesian,Sharifganj,131595
+3,5,Brown,Male,1,No,Holstein Cross,Sylhet,131658
+5,7,White and Red,Male,259.0783067,Yes,Pakri,Tebunia,131791.4115
+4,7,Ash,Male,189.9022886,Yes,Holstein Cross,Mymenshing,131992.2999
+4,7,Cross,Male,287.1396086,No,Shahiwal,Mymenshing,132179.6804
+2,2,Cross,Male,207,No,Deshal,Mymenshing,132250
+1,2,Red,Female,199.6809046,Yes,Hybrid,Mymenshing,132302.5165
+5,7,White,Male,266.3477374,Yes,Deshal,Nilfamari,132369.7212
+2,4,Mixed,Male,271.7459631,Yes,Nafimoni,Naogaon,132676.6499
+3,6,Red,Male,258.2145042,No,Deshi,Nilfamari,132719.5884
+3,6,White,Male,207,Yes,Shahiwal,Tebunia,132900
+2,2,Light Red,Female,274,Yes,Brahma cross,Mirpur,132923
+1,2,White and Red,Female,317.0918108,Yes,Deshal,Naogaon,133002.8677
+4,6,Cross,Male,383.469603,Yes,Jersey,Kushtia,133096.4686
+3,4,White,Male,275.3217701,Yes,Brahma,Gazipur,133181.1362
+2,2,Brown,Male,232,No,Shahiwal,Kurigram,133200
+4,8,White and Red,Male,279.5375668,Yes,Holstein Cross,Kushtia,133221.3454
+1,2,Black and White,Male,305.2091015,Yes,Holstein Friesian,Kushtia,133339.0609
+4,7,Light Red,Male,255.9121762,Yes,Deshal,Sharifganj,133387.5048
+3,5,Black,Male,209.4752254,No,Shahiwal,Mirpur,133626.5756
+2,2,Cross,Male,265.1398539,Yes,Holstein Friesian,Gazipur,133684.9967
+2,2,Red,Male,255,Yes,Deshal,Mymenshing,133875
+2,3,Red,Male,255,Yes,Deshal,Mymenshing,133875
+5,7,Black and White,Male,293.0054307,Yes,Aus,Mymenshing,133894.7373
+2,3,Cross,Male,308.9435864,No,Holstein Cross,Gazipur,133941.9713
+4,6,Red,Male,225.6245491,Yes,Shahiwal,Mymenshing,133942.4697
+3,6,Cross,Female,253.2073211,No,Holstein Cross,Gazipur,134007.4401
+5,7,Light Red,Female,308.280081,No,Cross,Kushtia,134353.8182
+5,7,Red,Male,225.3594669,No,Shahiwal,Tebunia,134714.0978
+5,7,Ash,Female,261.670903,No,Local,Sharifganj,134737.9094
+4,6,Red,Male,335.6413651,Yes,Brahma,Pabna,134754.6713
+3,4,Ash,Male,238,Yes,Shahiwal,Mymenshing,135100
+1,2,Black and Brown,Male,259.5093416,Yes,Deshal,Mymenshing,135132.8016
+2,3,Light Red,Male,400,Yes,Holstein Cross,Sabujbagh,135167
+1,2,Red,Male,301.2880753,Yes,Shahiwal,Mirpur,135242.8325
+3,6,Ash,Female,450,No,Brahma cross,Kurigram,135254
+4,6,Light Red,Female,257.3451367,Yes,Holstein Cross,Sabujbagh,135356.8946
+3,4,White,Male,263,Yes,Shahiwal,Gazipur,135400
+4,8,Black,Female,235.8047341,No,Holstein Friesian,Kurigram,135546.6867
+3,5,Black,Male,250,Yes,Deshi,Naogaon,136000
+2,4,Red,Male,250,Yes,Deshi,Naogaon,136000
+2,4,Black and Brown,Male,320.9109717,Yes,Deshal,Sabujbagh,136059.2064
+2,3,Red,Male,250,Yes,Deshal,Mymenshing,136400
+5,7,White,Male,294.9813896,Yes,Deshal,Nilfamari,136408.6814
+2,2,Red,Male,260,Yes,Deshal,Mymenshing,136500
+1,2,Red,Male,289.1875981,Yes,Brahma,Mymenshing,136548.2639
+3,6,Red,Female,244.832299,No,Aus,Sharifganj,136559.381
+3,5,Red and Brown,Male,322.3807643,No,Holstein Cross,Mirpur,136578.9618
+5,7,Red,Male,235.186764,No,Cross,Chittagong,136650.8664
+5,7,Cross,Female,271.5883535,Yes,Shahiwal,Kushtia,136671.0018
+2,3,Red,Male,261,Yes,Deshal,Mymenshing,137025
+2,3,White,Male,235.8880772,No,Deshi,Mymenshing,137078.4337
+4,8,Red,Male,298.0097675,Yes,Brahma,Gazipur,137217.3116
+3,5,Red,Male,293.0500045,Yes,Shahiwal,Dhaka,137258.9784
+4,8,Brown,Male,277.3805702,Yes,Cross,Mymenshing,137352.0173
+4,7,Black,Female,266.7389474,Yes,Jersey,Rangpur,137485.6056
+2,3,Red,Male,262,Yes,Deshal,Mymenshing,137550
+3,6,Ash,Male,269,No,Shahiwal,Gazipur,137700
+3,5,Black,Female,486,Yes,Holstein Friesian,Pabna,137752
+2,2,White,Male,263,Yes,Deshal,Mymenshing,138000
+2,2,Red,Male,250,Yes,Deshal,Mymenshing,138050
+5,7,Black and Brown,Male,325.996211,No,Nepali,Gazipur,138080.8437
+4,8,Ash,Female,536,Yes,Brahma cross,Mirpur,138126
+3,6,White,Male,260.443323,Yes,Shahiwal,Sylhet,138127.8779
+2,4,White,Male,226,Yes,Shahiwal,Kushtia,138250
+4,7,Ash,Female,369.9071359,Yes,Holstein Cross,Pabna,138318.4968
+5,7,White,Male,416.1027805,Yes,Deshi,Sabujbagh,138465.1702
+2,2,Brown,Male,507,No,Brahma,Kishoreganj,138492
+2,2,Red,Male,264,Yes,Deshal,Mymenshing,138600
+2,2,Ash,Male,350.5905716,No,Holstein Cross,Tebunia,138678.4706
+2,4,Ash,Male,262,Yes,Shahiwal,Mymenshing,138850
+1,2,Red,Male,267.1186841,Yes,Deshi,Gazipur,138989.2478
+5,7,Dark Red,Male,223.8300158,Yes,Deshal,Kurigram,139191.9591
+4,6,Red,Male,557,Yes,Holstein Friesian,Gazipur,139301
+4,7,Ash,Female,312.4499965,Yes,Deshi,Dhaka,139463.3161
+3,6,Light Red,Male,259.9704762,Yes,Deshi,Gazipur,139488.688
+4,8,Black and White,Male,291.9117377,Yes,Deshi,Tebunia,139604.4816
+3,4,Black and White,Female,281.8306418,Yes,Deshal,Chittagong,139635.0659
+2,4,White,Male,266,Yes,Deshal,Mymenshing,139650
+2,2,Red,Male,250,Yes,Deshal,Mymenshing,139700
+5,7,Ash,Female,349.9672551,Yes,Shahiwal,Mymenshing,139781.5919
+4,8,Brown,Male,310.4798936,Yes,Jersey,Mymenshing,139965.3683
+2,4,Red,Male,80,Yes,Local,Nilfamari,140000
+3,5,White,Male,258,Yes,Shahiwal,Kushtia,140050
+3,5,Black and Brown,Male,272.3196062,Yes,Local,Dhaka,140142.5177
+3,6,Black and Brown,Female,310.138216,Yes,Cross,Rangpur,140235.1618
+2,4,Red,Male,239,No,Shahiwal,Kushtia,140400
+2,2,Ash,Male,258.671183,Yes,Deshi,Sharifganj,140401.2383
+3,4,Cross,Female,1,No,Deshi,Sylhet,140412
+3,6,Mixed,Female,59,Yes,Brahma cross,Kurigram,140427
+2,3,Black,Male,326.3579799,Yes,Holstein Cross,Mymenshing,140556.4686
+2,2,Cross,Male,731,Yes,Holstein Cross,Nilfamari,140574
+1,2,Black and Brown,Male,255.8545858,No,Pakri,Kurigram,140574.2109
+2,2,Ash,Male,330.37733,No,Deshal,Naogaon,140625.3066
+3,6,Brown,Male,218,No,Shahiwal,Kurigram,140700
+5,7,Red,Male,249.6420687,Yes,Shahiwal,Mirpur,141133.7107
+3,5,Black and Brown,Female,459.8894253,No,Deshi,Mymenshing,141254.2469
+2,2,Light Red,Female,109,Yes,Nepali,Nilfamari,141434
+5,7,Black,Male,311.5883043,Yes,Holstein Cross,Mymenshing,141523.0499
+5,7,Black and Brown,Female,282.3231838,Yes,Shahiwal,Mymenshing,141587.0906
+2,2,Brown,Male,238.2668939,No,Nepali,Naogaon,141927.9624
+3,4,White,Female,209,Yes,Hybrid,Chittagong,142003
+3,5,White,Male,305.5481013,Yes,Shahiwal,Kushtia,142100.4337
+4,6,Brown,Male,327.3162222,Yes,Hybrid,Gazipur,142263.9935
+3,6,Ash,Male,312,Yes,Shahiwal,Gazipur,142300
+5,7,Black and Brown,Male,199.6818944,No,Shahiwal,Naogaon,142311.2577
+2,2,Light Red,Female,307.9483117,Yes,Brahma cross,Mirpur,142406.075
+5,7,Mixed,Male,277.0182252,No,Holstein Cross,Dhaka,142511.2766
+2,4,Dark Red,Male,400.3790317,No,Deshal,Sabujbagh,142618.4449
+3,4,White and Red,Male,292.0910653,No,Shahiwal,Sylhet,142680.7804
+2,4,Cross,Male,299.2695836,Yes,Shahiwal,Mymenshing,142735.1896
+5,7,White,Female,344.9605128,Yes,Deshi,Nilfamari,142811.3164
+2,3,Red,Male,255,Yes,Deshal,Mymenshing,143000
+4,8,White and Red,Male,451.8879288,No,Holstein Cross,Kushtia,143264.7014
+2,4,Brown,Male,225.8250053,Yes,Local,Kishoreganj,143549.6549
+5,7,Red,Male,290.4755076,Yes,Brahma cross,Rangpur,143741.3213
+3,4,Red,Female,77,No,Deshal,Chittagong,143784
+3,4,Ash,Male,228.2930256,No,Holstein Friesian,Dhaka,143970.347
+3,5,Black and Brown,Male,260,Yes,Deshi,Naogaon,144000
+2,2,Red,Male,260,Yes,Deshal,Mymenshing,144100
+2,3,Brown,Male,316,No,Shahiwal,Mymenshing,144150
+1,2,Red,Male,305.3064083,No,Local,Mirpur,144297.9841
+3,5,Red,Male,305.1541064,No,Pakri,Naogaon,144443.7252
+1,2,White,Male,306.2258329,Yes,Jersey,Tebunia,144819.6411
+4,8,Dark Red,Male,384.9342205,Yes,Deshi,Kishoreganj,144919.2719
+2,3,Ash,Male,259,Yes,Deshal,Kurigram,144950
+1,2,Red,Male,80,No,Deshi,Dhaka,145000
+1,2,Light Red,Male,374.9775429,Yes,Holstein Friesian,Bogura,145135.63
+3,5,Red,Male,283.6278934,Yes,Shahiwal,Naogaon,145280.0731
+2,2,Red,Male,277,Yes,Deshal,Mymenshing,145425
+3,5,White,Male,168,Yes,Deshal,Dhaka,145484
+3,6,Cross,Female,249,Yes,Holstein Friesian,Pabna,145521
+3,6,Red,Male,224.9305628,Yes,Deshi,Kurigram,145527.1584
+3,4,Brown,Male,237,No,Deshal,Kushtia,145550
+4,7,Black,Female,398,Yes,Holstein Friesian,Kurigram,145579
+3,6,Cross,Male,260.5697436,Yes,Deshi,Kurigram,145587.6541
+2,2,Red,Female,160,Yes,Holstein Friesian,Sharifganj,145631
+2,3,Cross,Male,284,No,Deshal,Mymenshing,145800
+4,7,Red,Male,490.715937,Yes,Shahiwal,Kurigram,145984.1637
+5,7,Cross,Female,246.7443088,Yes,Holstein Friesian,Rangpur,146378.4965
+3,5,Ash,Male,293,No,Shahiwal,Dhaka,146549
+5,7,Black,Male,276.7200942,Yes,Deshi,Bogura,146973.1594
+4,6,Black and White,Male,285.3107353,No,Deshal,Sylhet,146974.7452
+2,2,Black and White,Male,432,Yes,Deshal,Sylhet,146978
+2,4,Red,Male,239.2487996,Yes,Shahiwal,Mirpur,147034.4744
+2,3,Mixed,Male,288.1070837,No,Brahma,Dhaka,147050.9144
+2,2,White,Male,284,No,Shahiwal,Tebunia,147150
+4,7,Black,Female,345.0547998,Yes,Shahiwal,Naogaon,147168.3424
+4,8,White,Male,280.0185291,No,Deshal,Mymenshing,147186.6002
+5,7,Red,Male,320.9372667,No,Shahiwal,Mymenshing,147276.3881
+2,3,Black,Male,249,Yes,Shahiwal,Kurigram,147700
+4,7,Red,Female,307.9594135,Yes,Nafimoni,Narayanganj,147992.1855
+3,5,Black and White,Male,275,Yes,Jersey,Naogaon,148000
+2,4,Red,Male,285.3507229,No,Brahma cross,Bogura,148221.9387
+3,5,Cross,Male,249.2940947,No,Deshi,Bogura,148329.3406
+2,3,Black,Male,291,Yes,Shahiwal,Mymenshing,148450
+4,7,Black,Female,307.5690495,No,Deshal,Mymenshing,148463.2222
+2,4,Black and White,Male,505,No,Deshal,Mirpur,148479
+2,4,Light Red,Male,216,No,Deshi,Sharifganj,148532
+3,5,Light Red,Male,251.6579508,No,Nafimoni,Mymenshing,148576.1895
+4,7,Ash,Male,311.7790354,Yes,Nafimoni,Kurigram,148588.6896
+2,3,Ash,Male,236,No,Deshal,Kushtia,148650
+2,3,Mixed,Male,47,Yes,Shahiwal,Kishoreganj,148694
+3,5,White,Male,379.5407448,Yes,Brahma cross,Tebunia,148777.2962
+1,2,Mixed,Male,298.1922798,Yes,Local,Mymenshing,148820.0928
+4,7,Mixed,Male,468.1288731,Yes,Nafimoni,Kushtia,148931.9062
+2,3,Red,Male,292.0753092,Yes,Shahiwal,Mymenshing,148946.5416
+2,2,Red,Male,284,Yes,Deshal,Mymenshing,149100
+2,2,Red,Male,284,Yes,Deshal,Mymenshing,149100
+1,2,Cross,Male,316.123136,Yes,Nepali,Kurigram,149442.4694
+4,6,White,Female,303.3118433,Yes,Deshi,Mirpur,149825.9603
+3,4,Red,Male,4,Yes,Local,Mymenshing,150000
+4,8,Red,Male,9.5,No,Local,Mymenshing,150000
+2,3,Red,Male,80,Yes,Local,Nilfamari,150000
+1,2,Mixed,Male,383.5526769,Yes,Deshal,Gazipur,150056.3376
+3,6,Light Red,Male,250.0229166,Yes,Hybrid,Nilfamari,150252.746
+5,7,Mixed,Female,285.7329886,Yes,Holstein Cross,Mymenshing,150292.5882
+3,4,Black,Male,379,Yes,Hybrid,Naogaon,150365
+2,3,Black and Brown,Female,74,Yes,Brahma cross,Naogaon,150418
+5,7,Red,Male,295.3956063,No,Holstein Cross,Tebunia,150512.3036
+5,7,White,Male,327.5939026,Yes,Pakri,Mymenshing,150723.8367
+1,2,Red and Brown,Male,322.290793,Yes,Holstein Cross,Chittagong,150847.7593
+4,7,Brown,Male,288.1693773,Yes,Shahiwal,Naogaon,150853.3574
+5,7,White,Female,385.9992311,Yes,Pakri,Gazipur,151165.4688
+5,7,Dark Red,Female,343.1086194,No,Cross,Gazipur,151261.8841
+2,4,Brown,Male,309,Yes,Deshal,Kurigram,151300
+4,6,Black and White,Male,378.1998425,Yes,Pakri,Gazipur,151371.5478
+4,7,White,Female,330.1679452,No,Brahma,Kushtia,151375.9359
+3,5,Cross,Male,320,No,Shahiwal,Gazipur,151450
+2,3,Light Red,Male,403.2261618,Yes,Local,Kushtia,151580.2799
+2,3,Mixed,Male,418.8609645,Yes,Deshi,Gazipur,151629.457
+2,3,Mixed,Male,335.7454292,No,Aus,Gazipur,151771.0515
+2,2,Red,Male,290,Yes,Deshal,Mymenshing,152250
+1,2,White and Red,Male,279.1163227,Yes,Deshal,Gazipur,152255.1514
+2,3,Red,Male,275,Yes,Deshal,Mymenshing,152350
+3,5,Mixed,Male,303.1751377,Yes,Deshal,Kushtia,152797.1975
+5,7,Light Red,Male,340.4761796,No,Holstein Friesian,Naogaon,153114.0299
+4,6,Dark Red,Male,339.8913324,No,Nepali,Kurigram,153169.2159
+2,3,Black,Male,313.8996953,Yes,Deshal,Mirpur,153254.1707
+5,7,Red,Male,275.9016866,Yes,Holstein Cross,Mymenshing,153385.385
+5,7,Ash,Female,300.3424857,Yes,Jersey,Mymenshing,153418.9801
+3,4,Cross,Male,279.3669272,Yes,Holstein Cross,Bogura,153508.816
+2,4,Brown,Male,239,No,Shahiwal,Kushtia,153750
+2,2,Red,Male,243,Yes,Deshal,Kurigram,153750
+3,5,Black and White,Male,285,Yes,Jersey,Naogaon,154000
+4,6,Brown,Female,383.3668474,Yes,Local,Gazipur,154126.757
+1,2,Red,Male,246.8821049,Yes,Local,Naogaon,154130.9319
+5,7,Dark Red,Male,271.8746727,No,Deshal,Dhaka,154365.7272
+5,7,Red,Male,256.5160543,No,Brahma,Mymenshing,154377.2722
+2,4,Cross,Male,322.6978331,No,Deshi,Tebunia,154432.1038
+3,4,Black and White,Female,267,Yes,Nepali,Rangpur,154459
+2,2,Red,Male,295,Yes,Deshal,Mymenshing,154875
+2,4,Black,Male,80,Yes,Local,Nilfamari,155000
+2,3,Red,Male,80,Yes,Local,Nilfamari,155000
+1,2,Red and Brown,Male,272.7795383,No,Nepali,Narayanganj,155041.8454
+3,4,Red,Female,333.8441969,No,Brahma,Sylhet,155113.9669
+2,3,White,Male,255,Yes,Shahiwal,Kushtia,155150
+1,2,Red,Male,361.7832602,Yes,Shahiwal,Kushtia,155370.5898
+5,7,Mixed,Male,294.28985,No,Aus,Mymenshing,155377.4566
+5,7,Red,Male,423.8151724,No,Jersey,Mymenshing,155648.2143
+3,5,Red,Male,262.5573691,Yes,Nafimoni,Naogaon,156031.2974
+5,7,Red,Female,255.6048454,No,Holstein Cross,Dhaka,156138.019
+4,8,Cross,Female,372.999627,No,Holstein Cross,Sabujbagh,156235.9868
+1,2,Red,Male,290.283213,Yes,Nepali,Nilfamari,156386.3775
+4,6,Black and Brown,Male,325.7777123,Yes,Holstein Cross,Kurigram,156608.0434
+5,7,Brown,Male,345.0468564,Yes,Holstein Cross,Mymenshing,156657.4844
+3,4,Red,Male,361.4326002,Yes,Holstein Cross,Mirpur,156688.9202
+2,3,Brown,Male,251,No,Shahiwal,Gazipur,156900
+3,6,Ash,Male,314.2561706,No,Pakri,Gazipur,157295.1419
+2,2,White,Male,257,Yes,Deshal,Kushtia,157300
+4,8,Red,Male,465.6945949,No,Shahiwal,Sylhet,157344.0115
+4,7,Cross,Female,283.7390369,Yes,Holstein Cross,Kushtia,157450.6336
+3,5,Red,Female,283.8677933,No,Deshal,Nilfamari,157598.2203
+3,4,White,Female,821,Yes,Brahma,Pabna,157797
+3,5,White and Red,Male,343.2645315,Yes,Local,Sharifganj,157823.7838
+4,8,Mixed,Male,270.1417913,No,Shahiwal,Naogaon,157896.3357
+3,4,Red,Male,291.6335184,Yes,Deshi,Chittagong,157926.0777
+5,7,Black,Male,391.069386,Yes,Shahiwal,Dhaka,157955.1016
+2,2,Red,Male,350,Yes,Deshi,Pabna,158000
+1,2,Black and White,Male,367.5305116,No,Nepali,Nilfamari,158238.3185
+1,2,Dark Red,Female,463.1063504,No,Deshi,Kushtia,158262.782
+2,3,Red,Male,285,Yes,Deshal,Mymenshing,158400
+3,4,Red,Female,332.7548267,Yes,Deshal,Nilfamari,158411.7866
+2,2,Black,Male,253.2868661,No,Deshal,Rangpur,158635.4915
+4,6,Brown,Male,305.188495,Yes,Jersey,Mirpur,158692.311
+1,2,Black,Male,270.1070833,Yes,Local,Sharifganj,158772.5183
+4,7,Black and White,Male,290,Yes,Deshi,Naogaon,159000
+2,3,Red,Male,300,Yes,Shahiwal,Kurigram,159000
+1,2,White,Male,262.1938615,Yes,Brahma cross,Narayanganj,159060.8591
+3,5,Ash,Female,438.1834326,No,Shahiwal,Tebunia,159179.7247
+3,5,Cross,Female,1,Yes,Deshi,Kurigram,159454
+2,2,Red,Male,290,Yes,Deshal,Mymenshing,159500
+2,2,Red,Male,6,Yes,Local,Bogura,160000
+2,2,Red,Male,80,Yes,Local,Nilfamari,160000
+5,7,Black and White,Male,290,Yes,Deshi,Naogaon,160000
+3,5,Black and Brown,Male,295,Yes,Deshi,Naogaon,160000
+2,3,Mixed,Male,266,Yes,Jersey,Sharifganj,160314
+1,2,Black,Male,276.5521315,No,Nepali,Mymenshing,160316.1027
+4,6,Red,Male,231.5614762,Yes,Brahma cross,Narayanganj,160361.9401
+4,6,Red,Male,355.8498203,Yes,Deshi,Nilfamari,160402.937
+4,6,White,Male,283.15105,Yes,Holstein Cross,Nilfamari,160574.5534
+3,4,Black and White,Male,300,No,Jersey,Naogaon,161120
+2,4,Cross,Male,300,No,Shahiwal,Kurigram,161250
+3,5,Red,Male,416.7629331,No,Local,Naogaon,161490.5606
+3,4,Cross,Male,273,Yes,Deshal,Pabna,161614
+4,8,Cross,Male,309.1310863,Yes,Holstein Cross,Sharifganj,161622.3887
+2,2,Red,Male,319.483899,No,Nepali,Mymenshing,161679.0226
+5,7,White and Red,Male,309.8045574,No,Deshal,Naogaon,161896.8503
+1,2,Brown,Male,303.4600959,Yes,Pakri,Dhaka,162106.4248
+4,6,White and Red,Male,406.7649136,No,Pakri,Kishoreganj,162235.5656
+4,7,Red,Female,432.0161081,Yes,Shahiwal,Mymenshing,162261.307
+1,2,Light Red,Male,261.2629996,Yes,Deshal,Gazipur,162412.4435
+3,6,Red and Brown,Female,377,No,Brahma,Dhaka,162425
+2,4,Red,Male,1,No,Brahma,Nilfamari,162550
+3,6,Black,Male,263,Yes,Shahiwal,Gazipur,162550
+2,4,Ash,Male,359.6459033,No,Cross,Sabujbagh,162585.5003
+3,5,Cross,Male,296,Yes,Deshal,Mymenshing,162650
+3,6,Dark Red,Male,310.229179,No,Cross,Bogura,162909.3231
+2,2,Mixed,Female,174,No,Deshal,Nilfamari,163026
+4,7,White,Female,1,Yes,Pakri,Bogura,163093
+1,2,Black,Male,400.1601172,Yes,Shahiwal,Mirpur,163265.3448
+2,3,Black,Female,205.1138861,Yes,Holstein Cross,Tebunia,163683.5338
+4,7,White and Red,Male,294.6710371,Yes,Nepali,Bogura,163768.9018
+1,2,Black,Female,336.7332267,Yes,Deshal,Nilfamari,163854.646
+2,4,Mixed,Male,280.3391251,No,Jersey,Sabujbagh,163961.6542
+3,5,Black,Female,274.7254818,Yes,Deshal,Sabujbagh,164346.8909
+2,2,White,Male,266,No,Deshal,Kushtia,164400
+4,8,Mixed,Female,158,Yes,Deshal,Kurigram,164759
+5,7,Brown,Male,379.790433,Yes,Brahma,Kushtia,164772.4864
+2,4,Ash,Male,298.9079786,No,Brahma,Dhaka,164824.4946
+2,4,Brown,Male,469.4560685,Yes,Shahiwal,Kushtia,164956.6028
+2,4,Red,Male,5.5,Yes,Local,Mymenshing,165000
+2,2,Ash,Female,431.77771,No,Cross,Naogaon,165064.5067
+4,8,White,Male,489.889565,No,Deshal,Tebunia,165141.6937
+2,2,Ash,Female,1,No,Deshal,Chittagong,165270
+3,6,Cross,Male,357.3307124,Yes,Holstein Cross,Mymenshing,165315.1271
+3,5,Cross,Male,341,Yes,Shahiwal,Kushtia,165450
+3,6,Brown,Male,293.3083686,Yes,Shahiwal,Kushtia,165503.3242
+3,6,Black and White,Male,501,No,Pakri,Kushtia,165508
+3,4,Black,Female,68,Yes,Nafimoni,Gazipur,165558
+2,2,Brown,Female,396.1596812,Yes,Deshi,Gazipur,165641.3855
+5,7,Dark Red,Male,433.4167917,Yes,Deshal,Sharifganj,165772.8222
+3,5,Black,Female,162,No,Hybrid,Sharifganj,166063
+3,4,Mixed,Female,266.3474835,Yes,Holstein Cross,Mymenshing,166235.7697
+1,2,Cross,Female,307.7551129,No,Deshal,Kurigram,166248.6683
+2,2,Black,Male,285,Yes,Shahiwal,Kurigram,166250
+2,4,Red and Brown,Male,311.9436019,No,Holstein Cross,Dhaka,166286.898
+2,4,Red and Brown,Male,371,No,Local,Tebunia,166311
+2,4,White,Male,312.678218,No,Hybrid,Nilfamari,166408.1893
+2,2,Black,Male,275.117268,Yes,Jersey,Kushtia,166438.8359
+4,7,Red and Brown,Female,1,Yes,Jersey,Kurigram,166476
+2,3,Black and Brown,Male,321.1102763,Yes,Holstein Cross,Mirpur,166942.9198
+2,2,Black,Male,315,No,Deshi,Naogaon,167000
+5,7,Dark Red,Female,467.4283808,Yes,Shahiwal,Mymenshing,167242.9968
+2,4,Black,Male,251.1011446,Yes,Deshi,Naogaon,167247.1341
+2,4,Black,Male,320.9318088,Yes,Holstein Friesian,Tebunia,167345.9589
+1,2,Cross,Male,283.7007626,Yes,Holstein Cross,Mymenshing,167551.8216
+3,6,Red,Female,277.2194939,Yes,Shahiwal,Dhaka,167681.1876
+5,7,Red,Female,365.0289603,Yes,Holstein Cross,Kushtia,167772.3883
+5,7,Red,Female,336.5862482,No,Deshal,Gazipur,167989.3616
+2,3,Red,Male,320,Yes,Deshal,Mymenshing,168000
+2,2,Ash,Male,317,Yes,Shahiwal,Kurigram,168010
+3,5,Black,Male,343,No,Shahiwal,Kurigram,168050
+5,7,Brown,Female,277.5308262,Yes,Cross,Naogaon,168070.6942
+2,3,Red,Male,361.3109782,Yes,Deshi,Mymenshing,168116.2259
+4,7,Red and Brown,Male,435,No,Hybrid,Gazipur,168133
+2,2,Cross,Male,190,No,Deshi,Sharifganj,168240
+5,7,White and Red,Male,369.668177,Yes,Deshal,Tebunia,168602.837
+2,3,Cross,Male,263,Yes,Shahiwal,Kushtia,168700
+3,6,Black and Brown,Female,148,No,Nafimoni,Naogaon,168749
+3,5,Black,Male,364,Yes,Shahiwal,Mymenshing,168850
+3,4,White,Male,120,Yes,Brahma,Pabna,168907
+3,4,Cross,Female,423,Yes,Deshi,Tebunia,169042
+4,6,Black and White,Male,318.6332994,Yes,Shahiwal,Rangpur,169203.5742
+4,7,Black and Brown,Female,290.3661666,No,Cross,Bogura,169471.7439
+3,6,Red,Male,263.5560626,Yes,Shahiwal,Naogaon,169950.1646
+1,2,Red,Male,1,Yes,Deshal,Mymenshing,170000
+1,2,Red,Male,1,Yes,Deshal,Mymenshing,170000
+1,2,Mixed,Male,1.7,Yes,Pakri,Mymenshing,170000
+1,2,Mixed,Male,1.7,Yes,Pakri,Mymenshing,170000
+3,6,White,Male,3.75,Yes,Deshal,Mymenshing,170000
+3,4,White,Male,3.75,Yes,Deshal,Mymenshing,170000
+2,4,Red,Male,4,Yes,Cross,Mymenshing,170000
+2,3,Dark Red,Male,9.5,Yes,Deshi,Mymenshing,170000
+3,4,Red,Male,294,Yes,Local,Mymenshing,170000
+3,6,Red,Male,294,Yes,Cross,Mymenshing,170000
+2,4,Red,Male,294,Yes,Deshal,Chittagong,170000
+2,3,Red,Male,294,Yes,Deshal,Mymenshing,170000
+2,3,Red,Male,294,Yes,Brahma,Mymenshing,170000
+2,3,Red,Male,294,Yes,Shahiwal,Mymenshing,170000
+2,3,Black,Male,294,Yes,Deshal,Mirpur,170000
+2,4,Red,Male,294,Yes,Deshal,Mymenshing,170000
+2,3,Red,,294,,Deshal,Mymenshing,170000
+2,4,Red,Male,294,Yes,Deshal,Chittagong,170000
+2,3,Red,Male,294,Yes,Deshal,Mymenshing,170000
+2,2,Red,Male,294,Yes,Brahma,Mymenshing,170000
+2,3,Red,Male,294,Yes,Shahiwal,Mymenshing,170000
+2,3,Black,Male,294,Yes,Deshal,Mirpur,170000
+2,4,Red,Male,294,Yes,Deshal,Mymenshing,170000
+2,2,Red,Male,294,Yes,Pakri,Mymenshing,170000
+2,3,Red,Male,294,Yes,Pakri,Mymenshing,170000
+3,6,Black and White,Male,294,Yes,Aus,Mymenshing,170000
+2,2,Ash,Male,311,Yes,Shahiwal,Kurigram,170000
+4,6,Brown,Male,314.7550871,No,Holstein Cross,Narayanganj,170010.0319
+3,5,Mixed,Male,132,No,Holstein Friesian,Sabujbagh,170223
+4,7,Mixed,Male,436,Yes,Brahma cross,Sabujbagh,170312
+2,4,Red,Female,284.1968615,Yes,Brahma cross,Mymenshing,170335.4362
+5,7,Black,Male,276.9044007,No,Deshal,Kurigram,170436.5129
+4,8,Dark Red,Female,289.6506004,No,Local,Pabna,170681.2932
+1,2,White,Male,323.2561534,No,Local,Chittagong,170684.9639
+2,2,White,Male,264,No,Deshal,Tebunia,171150
+4,8,Red,Male,323,Yes,Jersey,Naogaon,171190
+4,8,Black,Male,272.3614985,Yes,Deshal,Tebunia,171206.3598
+2,2,Cross,Female,316.7797361,Yes,Nafimoni,Sabujbagh,171212.6497
+1,2,Mixed,Male,635,Yes,Deshi,Naogaon,171241
+2,4,Black and White,Female,294.9950222,Yes,Deshi,Kurigram,171278.3849
+3,6,Cross,Male,323,No,Deshal,Kurigram,171350
+5,7,Black and Brown,Female,291.6540522,Yes,Hybrid,Mymenshing,171481.9166
+2,4,Cross,Female,303.6124868,Yes,Deshi,Sabujbagh,171624.5167
+3,5,White,Male,420.5853035,Yes,Jersey,Mymenshing,171634.9739
+3,4,Red and Brown,Female,279,Yes,Jersey,Kushtia,172068
+4,6,Cross,Male,326.8669045,No,Deshal,Sylhet,172143.045
+4,7,Brown,Female,354,Yes,Hybrid,Sharifganj,172487
+3,4,Ash,Male,294,Yes,Shahiwal,Tebunia,172850
+3,4,White,Female,178,Yes,Pakri,Narayanganj,172947
+4,8,Black,Male,325.938596,Yes,Shahiwal,Kushtia,172978.4618
+3,5,White,Male,137,Yes,Nepali,Kurigram,173006
+3,6,Mixed,Male,376,No,Brahma cross,Nilfamari,173379
+1,2,Brown,Male,331.9516954,No,Shahiwal,Mirpur,173596.8188
+3,6,White,Male,253.8859798,No,Aus,Sharifganj,173656.1853
+1,2,Red and Brown,Male,405.3335239,Yes,Local,Mymenshing,173664.3979
+1,2,Red,Male,307.1595739,Yes,Shahiwal,Kushtia,173664.6803
+2,2,Red,Male,206,No,Deshi,Naogaon,174159
+2,2,Ash,Female,182,No,Deshi,Bogura,174356
+4,7,Red,Male,681.507944,Yes,Holstein Cross,Mymenshing,174416.382
+2,2,Black and Brown,Male,193,Yes,Holstein Friesian,Nilfamari,174479
+5,7,Light Red,Male,374.0630689,No,Cross,Mymenshing,174636.0043
+3,5,Red,Male,385.9324304,Yes,Jersey,Dhaka,174653.0695
+2,4,Red,Male,317.8727069,No,Deshal,Rangpur,174660.8687
+5,7,White,Male,357.9940203,Yes,Hybrid,Kishoreganj,174985.5284
+2,3,Mixed,Female,366.439583,No,Holstein Cross,Tebunia,175030.0615
+2,4,Ash,Male,301.2717352,No,Pakri,Tebunia,175036.9205
+2,3,Red,Male,341,Yes,Deshal,Mymenshing,175100
+2,4,Red,Male,330,Yes,Deshi,Naogaon,175430
+3,5,Black and White,Male,289.1936969,No,Holstein Cross,Tebunia,175554.6625
+1,2,Ash,Male,455.5647907,Yes,Deshal,Mymenshing,175765.6491
+3,4,Mixed,Female,147,No,Cross,Kishoreganj,175827
+1,2,Ash,Male,436.4059525,No,Local,Mymenshing,175944.3412
+2,4,Brown,Female,593,No,Cross,Sabujbagh,176003
+3,6,Black and Brown,Male,371.445867,No,Nepali,Gazipur,176558.3508
+2,2,Red,Male,290,Yes,Shahiwal,Kurigram,176600
+3,4,Red,Male,391,Yes,Deshal,Kurigram,176600
+4,6,Cross,Female,388.5708083,Yes,Deshi,Chittagong,176689.0174
+3,4,Dark Red,Female,327.293122,Yes,Deshal,Kurigram,176693.0608
+5,7,Mixed,Male,314.7537487,Yes,Hybrid,Tebunia,176720.6783
+1,2,White,Female,332.2060248,Yes,Aus,Nilfamari,176729.8225
+4,8,Black,Male,314.5788244,Yes,Holstein Cross,Dhaka,176831.417
+2,3,Mixed,Female,89,Yes,Brahma cross,Sylhet,176881
+2,4,Red,Male,309.5137636,Yes,Deshal,Kurigram,176894.0081
+2,2,White,Male,276,Yes,Shahiwal,Mymenshing,176900
+5,7,Red,Male,314.2833473,Yes,Jersey,Mirpur,176920.5718
+2,2,Red,Male,322.0701147,Yes,Deshal,Kushtia,176965.6846
+1,2,Cross,Male,488.035159,Yes,Deshal,Sylhet,177375.535
+3,4,Red,Male,274.6869261,Yes,Aus,Dhaka,177554.4334
+2,4,Brown,Male,384,Yes,Deshal,Gazipur,177750
+5,7,Mixed,Male,303.9710504,No,Shahiwal,Sabujbagh,177916.3006
+2,4,Dark Red,Male,350.8270349,No,Jersey,Dhaka,177918.0399
+1,2,Black and Brown,Male,443.1999601,Yes,Pakri,Kurigram,178137.2517
+1,2,Black,Female,459.0055101,No,Holstein Cross,Nilfamari,178241.5663
+2,4,Black,Male,380,Yes,Shahiwal,Mymenshing,178350
+3,6,Black,Male,281.1727179,No,Local,Gazipur,178648.7697
+5,7,Red,Female,308.7960486,Yes,Shahiwal,Mymenshing,178699.8822
+1,2,Cross,Male,461.7043232,No,Deshal,Kushtia,179168.5576
+5,7,Black,Male,317.1563268,Yes,Hybrid,Sharifganj,179845.9197
+2,4,White,Male,411,No,Brahma cross,Mirpur,179871
+2,2,Red,Male,294,Yes,Local,Mymenshing,180000
+4,7,Black and White,Male,288.9728133,Yes,Nafimoni,Sabujbagh,180144.0749
+1,2,Black and Brown,Male,324.6795394,No,Shahiwal,Mymenshing,180540.9875
+3,5,Cross,Female,312.9493579,Yes,Holstein Cross,Nilfamari,180676.8464
+2,4,Ash,Male,368,Yes,Shahiwal,Tebunia,181050
+4,7,Black and White,Male,358.5286234,No,Brahma,Mymenshing,181090.0202
+3,5,Cross,Male,581,Yes,Brahma cross,Pabna,181112
+5,7,Black,Male,324.6851385,No,Local,Kurigram,181387.3382
+3,5,Red,Male,330,Yes,Deshal,Mymenshing,181500
+3,4,Black,Male,314,No,Shahiwal,Kurigram,181600
+4,8,Black,Male,426.5583749,No,Jersey,Naogaon,181667.6287
+3,6,Red,Male,242,No,Holstein Friesian,Nilfamari,181684
+5,7,Red,Female,311.1739532,Yes,Jersey,Kurigram,181852.3343
+2,2,Brown,Male,275,Yes,Deshal,Mymenshing,182000
+2,4,Cross,Female,445,No,Holstein Cross,Rangpur,182235
+5,7,Red,Female,369.645101,Yes,Pakri,Mymenshing,182691.6363
+2,2,Black,Male,316,Yes,Shahiwal,Kurigram,182850
+4,8,Red,Male,345,Yes,Deshi,Naogaon,182850
+1,2,Red and Brown,Male,697,Yes,Cross,Dhaka,182968
+3,6,White,Male,385,No,Shahiwal,Kushtia,183050
+3,4,Black and White,Male,622,Yes,Hybrid,Kishoreganj,183638
+3,4,Red,Male,364,Yes,Shahiwal,Kushtia,183850
+4,8,Red,Female,324.2404208,Yes,Aus,Nilfamari,183881.2629
+2,2,White,Female,471.8615917,No,Deshal,Nilfamari,183995.9853
+3,6,Ash,Male,385,No,Shahiwal,Mymenshing,184000
+2,4,Red,Male,339,No,Deshal,Mymenshing,184100
+1,2,White,Female,371.8810554,Yes,Deshi,Sabujbagh,184125.7125
+3,6,Cross,Male,388,No,Shahiwal,Tebunia,184150
+2,3,White,Male,350,Yes,Deshi,Naogaon,184275
+2,3,Ash,Male,367,No,Deshal,Tebunia,184300
+3,5,Red,Male,375.6230939,Yes,Brahma,Mymenshing,184736.0674
+2,4,Red,Male,335,Yes,Deshal,Mymenshing,184800
+3,5,Cross,Male,430.4255519,No,Deshi,Kurigram,185339.2369
+2,4,Dark Red,Male,391,Yes,Pakri,Kishoreganj,185514
+3,6,Ash,Male,334,No,Deshal,Mymenshing,185550
+4,6,Black,Female,318.748316,Yes,Deshal,Dhaka,186046.5026
+3,4,Black,Male,355,No,Deshi,Naogaon,186375
+5,7,Black and Brown,Male,306.496178,No,Jersey,Sharifganj,186529.4254
+3,6,Black and Brown,Female,197,No,Holstein Friesian,Sylhet,186983
+1,2,Ash,Female,376.6105159,Yes,Nafimoni,Mymenshing,187249.0657
+2,3,Red and Brown,Male,357,Yes,Deshi,Naogaon,187450
+1,2,Red and Brown,Female,327.6403382,Yes,Shahiwal,Mymenshing,187524.044
+3,4,White,Male,290,Yes,Shahiwal,Kushtia,187600
+1,2,Mixed,Male,446,No,Hybrid,Sabujbagh,187764
+1,2,Black and White,Female,347.3125653,Yes,Hybrid,Kurigram,187973.4237
+3,5,Dark Red,Female,289,Yes,Brahma,Mymenshing,188426
+2,3,White and Red,Female,790,Yes,Brahma cross,Bogura,188483
+3,6,Black,Male,401.458275,No,Deshal,Gazipur,188492.2286
+5,7,Black and Brown,Male,318.8376945,No,Holstein Cross,Bogura,188757.5594
+2,3,White,Male,360,Yes,Deshal,Mymenshing,189000
+3,5,Black and White,Male,444.4790348,Yes,Hybrid,Naogaon,189474.6324
+2,2,Ash,Male,302,Yes,Deshal,Tebunia,189500
+5,7,Cross,Female,287.1408982,No,Hybrid,Tebunia,189618.7534
+2,2,Ash,Male,319.5801524,No,Shahiwal,Rangpur,189709.8503
+2,4,Red,Male,4,Yes,Local,Mymenshing,190000
+2,3,Black,Male,80,Yes,Local,Nilfamari,190000
+2,4,Black and White,Male,180,Yes,Deshal,Mymenshing,190000
+3,4,Black,Male,294,Yes,Cross,Mymenshing,190000
+3,4,Red,Male,360,Yes,Deshi,Naogaon,190000
+3,5,Mixed,Female,296,Yes,Aus,Tebunia,190183
+3,6,Red,Male,360,No,Deshi,Naogaon,190575
+2,4,Cross,Female,451,Yes,Hybrid,Nilfamari,190611
+2,3,Red,Female,98,No,Deshal,Sharifganj,190827
+5,7,Black and Brown,Male,303.2505521,Yes,Deshal,Mymenshing,190874.4304
+3,5,Brown,Male,359,Yes,Shahiwal,Kurigram,190950
+3,6,Dark Red,Male,324,No,Nepali,Bogura,191166
+3,6,Red and Brown,Female,364.0407003,Yes,Hybrid,Tebunia,191871.2392
+5,7,Black,Male,631.4299425,No,Deshal,Kurigram,192283.623
+2,4,Red,Female,451.3279586,Yes,Holstein Friesian,Kurigram,192420.3692
+5,7,Red,Female,417.9021867,No,Holstein Cross,Gazipur,192677.212
+5,7,Red,Male,331.1884681,Yes,Holstein Cross,Mymenshing,192771.3186
+5,7,Red,Male,504.0234062,Yes,Aus,Naogaon,192790.1093
+2,3,White,Male,357.5802967,Yes,Holstein Cross,Rangpur,193129.2011
+3,4,Ash,Female,1,No,Holstein Cross,Mirpur,193148
+4,7,Black and White,Male,462.4348167,No,Shahiwal,Tebunia,193197.4664
+3,4,Ash,Male,312.4868489,Yes,Nafimoni,Kushtia,193232.0252
+2,2,White,Male,562.7727611,No,Brahma cross,Mymenshing,193248.0027
+2,4,Black and White,Male,313.1324194,Yes,Shahiwal,Kurigram,193309.4669
+5,7,Red,Male,398.7196737,Yes,Holstein Cross,Tebunia,193491.6574
+2,2,Brown,Male,109,No,Hybrid,Mirpur,193555
+3,6,White,Male,364,Yes,Shahiwal,Gazipur,193750
+1,2,Black and White,Female,352.0304188,Yes,Deshi,Sylhet,193763.3121
+2,4,Red,Male,300,Yes,Deshi,Dhaka,194000
+3,6,Light Red,Male,312.8495436,No,Nafimoni,Mymenshing,194175.6787
+1,2,White and Red,Male,467.5563822,Yes,Deshal,Mymenshing,194259.2723
+3,4,Black,Female,298,No,Holstein Cross,Pabna,194330
+3,4,Black,Male,618,No,Cross,Tebunia,194405
+3,5,Cross,Male,447,Yes,Pakri,Rangpur,194526
+3,5,Light Red,Male,413.932785,Yes,Deshi,Tebunia,194673.7207
+4,7,Red,Female,397.3399142,Yes,Jersey,Bogura,195259.2186
+3,5,Dark Red,Female,490,No,Aus,Kurigram,195726
+2,3,Black,Male,316,No,Deshal,Tebunia,196350
+2,3,Cross,Female,370.6903508,Yes,Shahiwal,Tebunia,196698.5228
+2,3,Red,Male,370.0434954,Yes,Jersey,Sabujbagh,196905.1365
+3,5,Red and Brown,Male,448.6313477,Yes,Shahiwal,Naogaon,197282.8404
+5,7,Red and Brown,Female,352.1353396,Yes,Hybrid,Mirpur,197294.9019
+2,4,Cross,Male,315,Yes,Deshal,Gazipur,197850
+1,2,Red,Male,467.3471473,No,Deshal,Gazipur,197884.8789
+4,7,Red,Male,329.2342363,Yes,Deshi,Kushtia,197983.6846
+2,4,Cross,Male,315,Yes,Deshal,Kurigram,198050
+3,5,Brown,Female,335.8987499,No,Hybrid,Pabna,198174.2332
+5,7,Red,Male,572.8816706,Yes,Jersey,Sabujbagh,198218.1324
+5,7,Light Red,Male,412.9263332,Yes,Hybrid,Kushtia,199247.4819
+2,4,White,Male,344.1813976,Yes,Deshi,Sabujbagh,199569.0305
+2,3,Black,Male,511.7493399,No,Deshal,Mymenshing,199743.3696
+3,5,White,Male,6.5,Yes,Hybrid,Mymenshing,200000
+3,4,Black,Male,7,Yes,Local,Sabujbagh,200000
+3,4,Red,Male,7.5,Yes,Local,Mymenshing,200000
+4,7,Black,Male,317.3369043,No,Holstein Cross,Mymenshing,200041.14
+2,4,Black and White,Male,139,No,Holstein Friesian,Kishoreganj,200109
+5,7,Mixed,Female,387.795611,Yes,Cross,Mymenshing,200218.3512
+2,3,Black,Female,170,No,Nafimoni,Narayanganj,200249
+2,2,White and Red,Female,332,Yes,Brahma,Mirpur,200472
+3,6,Red,Female,422.0224014,No,Local,Kishoreganj,200547.81
+3,6,Dark Red,Male,524.4989663,Yes,Deshal,Gazipur,200550.7623
+3,4,Ash,Female,29,No,Brahma,Nilfamari,200571
+3,4,Light Red,Female,385,Yes,Deshi,Sharifganj,200793
+4,8,Black and White,Male,434.3181215,Yes,Brahma cross,Mymenshing,201077.584
+1,2,Cross,Female,476.8228895,Yes,Jersey,Tebunia,201622.1737
+4,6,Dark Red,Male,365.205009,No,Aus,Kurigram,201679.8708
+2,3,Brown,Male,333,Yes,Shahiwal,Tebunia,202050
+3,6,Cross,Male,428.0048979,Yes,Deshal,Dhaka,202151.896
+5,7,Dark Red,Male,483.4644277,Yes,Holstein Cross,Kishoreganj,202385.4115
+2,2,Red and Brown,Male,553,No,Pakri,Narayanganj,202595
+3,5,White,Male,380,Yes,Deshi,Naogaon,202650
+3,5,Ash,Male,479.3344302,Yes,Nepali,Kurigram,202719.3975
+3,6,Black and Brown,Male,410.2182635,No,Holstein Cross,Nilfamari,202813.0855
+5,7,Mixed,Male,439.4513215,Yes,Deshi,Sabujbagh,202894.029
+5,7,Light Red,Male,539.8390188,Yes,Holstein Cross,Mymenshing,203067.1845
+5,7,Brown,Male,473.7882938,Yes,Deshal,Dhaka,203211.2218
+1,2,Black and White,Male,370.514281,Yes,Local,Kurigram,203662.771
+2,4,Black,Male,374,Yes,Shahiwal,Mymenshing,203700
+3,4,Mixed,Male,383.1655055,No,Holstein Cross,Gazipur,203766.0489
+5,7,Black,Male,321.193754,Yes,Deshal,Pabna,204012.8261
+2,3,Ash,Male,130,No,Nafimoni,Kishoreganj,204102
+4,8,White,Male,345.3221657,No,Holstein Cross,Nilfamari,204159.4044
+3,4,White and Red,Male,448.6539024,No,Local,Kushtia,204166.0271
+5,7,Red,Female,648.2355405,No,Deshi,Mymenshing,204289.7484
+3,5,Black,Male,374.1673369,Yes,Cross,Kishoreganj,204453.3634
+3,5,Black,Female,299,No,Brahma cross,Naogaon,204484
+3,6,Brown,Male,408.8898033,No,Holstein Cross,Narayanganj,204493.7177
+3,6,White,Female,639,No,Shahiwal,Naogaon,204546
+2,3,Black,Male,539.9256656,No,Cross,Mirpur,204657.8419
+3,6,White and Red,Male,288,Yes,Jersey,Sabujbagh,204734
+2,3,Red,Male,470.7343713,No,Local,Kurigram,204809.2204
+4,8,Light Red,Male,415.044473,No,Nafimoni,Naogaon,205028.4495
+4,6,White,Female,439.9248551,No,Brahma,Pabna,205196.4538
+2,2,Black,Male,374,Yes,Deshal,Gazipur,205300
+2,3,Red,Male,314.6221522,Yes,Deshi,Tebunia,205505.7607
+4,7,Cross,Male,365.3092941,Yes,Holstein Friesian,Sharifganj,205577.4099
+3,5,Dark Red,Male,128,Yes,Local,Kushtia,205642
+2,3,White and Red,Female,96,No,Deshi,Mymenshing,206178
+3,5,Red and Brown,Female,252,Yes,Cross,Nilfamari,206181
+3,4,Black,Male,386,Yes,Shahiwal,Gazipur,206350
+5,7,Red,Female,304.9438892,Yes,Deshal,Bogura,206382.4588
+2,3,Black,Male,471,No,Deshal,Dhaka,206737
+2,3,White,Male,85,Yes,Jersey,Gazipur,207003
+2,3,Brown,Female,189,Yes,Nepali,Bogura,207065
+4,8,Ash,Male,321.6057712,Yes,Deshal,Kurigram,207216.5517
+5,7,White,Male,454.2386498,No,Brahma cross,Naogaon,207256.4907
+2,3,White,Male,379,Yes,Shahiwal,Kurigram,207300
+3,5,Cross,Male,448,Yes,Nepali,Rangpur,207738
+3,5,Brown,Male,343.1125425,No,Shahiwal,Sharifganj,208186.8732
+2,2,White and Red,Male,399,Yes,Hybrid,Narayanganj,208255
+2,2,Cross,Male,352,No,Shahiwal,Kurigram,208400
+5,7,White,Male,360.2816326,Yes,Deshi,Naogaon,208583.2407
+4,8,Ash,Male,509.3935222,Yes,Holstein Cross,Nilfamari,208605.7775
+4,7,Mixed,Male,469.1021919,No,Deshal,Sharifganj,208716.4425
+1,2,Mixed,Male,346.2028056,No,Deshal,Gazipur,208720.7549
+4,8,Light Red,Male,404.090558,Yes,Deshal,Sharifganj,208855.935
+4,8,White,Male,550.1360091,Yes,Local,Kurigram,208871.7674
+3,4,Red,Male,358.7961029,No,Brahma,Mymenshing,209631.9065
+3,5,Light Red,Female,216,Yes,Brahma cross,Mirpur,209756
+3,5,Black,Male,534.100059,Yes,Deshal,Mymenshing,209868.3717
+4,8,Black,Male,8,Yes,Cross,Sabujbagh,210000
+2,2,Red,Male,294,Yes,Local,Mymenshing,210000
+3,4,Ash,Male,339,Yes,Shahiwal,Tebunia,210150
+2,2,Red,Male,449,Yes,Deshal,Kushtia,210300
+1,2,Brown,Female,573.2546674,Yes,Shahiwal,Tebunia,210470.5194
+2,4,White,Male,415,No,Holstein Cross,Kushtia,210650
+2,3,Light Red,Male,374,Yes,Holstein Cross,Pabna,210841
+3,4,Black,Male,435.3718606,Yes,Deshal,Dhaka,211145.6314
+3,4,Red,Female,348.6514333,No,Shahiwal,Kishoreganj,211418.7452
+2,4,Black,Male,338,No,Deshal,Mymenshing,211450
+3,4,Brown,Male,336,Yes,Deshal,Gazipur,211550
+1,2,Ash,Male,378.2154954,Yes,Deshal,Kushtia,211620.8665
+2,4,Red,Male,400,Yes,Shahiwal,Kurigram,212000
+1,2,Black,Female,424.8991041,Yes,Pakri,Mymenshing,212293.8673
+4,6,Mixed,Male,404.9391147,Yes,Brahma,Mymenshing,212301.6673
+5,7,Red,Female,376.4540412,No,Local,Sharifganj,213511.1391
+2,4,Black and White,Female,60,Yes,Brahma,Kurigram,214572
+5,7,Black,Female,554.4656481,Yes,Deshi,Mymenshing,214866.2716
+2,4,Red,Male,343,Yes,Deshi,Dhaka,215000
+2,4,Red,Female,274.4625378,Yes,Holstein Cross,Naogaon,215292.2484
+3,4,Cross,Male,359,Yes,Shahiwal,Gazipur,215350
+2,2,Ash,Male,339.9734002,No,Holstein Cross,Mymenshing,215469.5806
+3,6,Red,Male,341,No,Shahiwal,Tebunia,215750
+3,6,Black,Male,399,No,Shahiwal,Kushtia,215850
+2,2,Cross,Male,384,Yes,Shahiwal,Mymenshing,216350
+3,5,Red,Male,1,No,Hybrid,Kushtia,216654
+4,6,Red,Male,300.1689925,Yes,Holstein Cross,Kushtia,217172.2948
+4,7,Light Red,Male,474.3228486,No,Hybrid,Mymenshing,217587.5188
+4,8,Black and White,Male,432.4125066,No,Brahma cross,Tebunia,217717.3592
+2,4,Red,Female,472,Yes,Holstein Cross,Mirpur,217796
+2,4,Black,Male,324.2243827,Yes,Local,Sabujbagh,217801.1458
+5,7,White,Male,458.8543225,No,Deshal,Mirpur,217907.7017
+3,5,Cross,Male,343,No,Shahiwal,Mymenshing,217950
+3,5,Red,Male,452.6159574,Yes,Brahma,Mymenshing,218007.0139
+4,7,Cross,Male,349.4134553,No,Holstein Cross,Pabna,218135.5661
+3,5,Mixed,Female,351,Yes,Deshi,Kushtia,218224
+1,2,Red,Male,490.1767827,Yes,Deshal,Naogaon,218745.4551
+3,5,Mixed,Male,93,No,Cross,Mymenshing,218752
+4,8,Red,Female,375.3979963,No,Deshal,Kurigram,218761.2386
+1,2,Red,Male,445.5994415,No,Aus,Mymenshing,218770.0392
+2,2,Light Red,Male,436.8216445,Yes,Holstein Cross,Chittagong,219337.334
+5,7,Red,Female,462.3654964,No,Brahma,Bogura,219430.2255
+3,4,White,Male,531.5230667,Yes,Deshal,Mymenshing,219676.0643
+2,4,Black,Male,485.2100234,No,Local,Gazipur,220232.6934
+2,2,Red,Male,333,Yes,Deshal,Mymenshing,220500
+2,4,Red,Male,395.9680101,No,Deshi,Mymenshing,221277.4997
+2,3,Red and Brown,Male,434.2938691,Yes,Cross,Mymenshing,221965.1981
+5,7,White,Female,397.7032646,No,Hybrid,Nilfamari,222061.6035
+3,5,Dark Red,Male,478,No,Local,Gazipur,222453
+2,3,Ash,Female,447.6593667,No,Holstein Cross,Kushtia,222476.1473
+2,3,Red,Male,350,Yes,Deshi,Dhaka,223000
+2,2,Red,Male,353,No,Deshi,Dhaka,223000
+2,2,Red,Male,353,No,Deshal,Gazipur,223000
+5,7,White and Red,Female,430.0595568,No,Pakri,Pabna,223002.9782
+3,6,Cross,Female,446,No,Nepali,Kishoreganj,223042
+5,7,Black,Male,450.9803063,No,Deshal,Rangpur,223320.2747
+1,2,Red,Male,460.4980069,No,Holstein Friesian,Gazipur,223449.5219
+3,6,Red,Male,426,Yes,Deshi,Naogaon,223650
+2,4,White,Male,401,No,Deshal,Kurigram,223800
+3,5,Red,Male,282.9048911,No,Shahiwal,Dhaka,224150.7957
+3,6,Brown,Male,407,Yes,Deshal,Tebunia,224200
+3,6,Ash,Female,726,Yes,Brahma,Narayanganj,224276
+3,4,Mixed,Female,373.1901245,Yes,Deshi,Naogaon,224289.7909
+3,4,Red,Male,411,Yes,Deshi,Chittagong,224651
+2,3,Red,Male,4,No,Local,Mymenshing,225000
+1,2,Red and Brown,Male,430.0911784,No,Cross,Gazipur,225377.42
+3,5,Red,Male,259,Yes,Deshi,Dhaka,227000
+3,4,White and Red,Male,257,Yes,Jersey,Kishoreganj,227115
+4,7,Dark Red,Male,344.323829,Yes,Deshal,Narayanganj,227443.1954
+3,6,Dark Red,Male,231,No,Holstein Friesian,Narayanganj,227891
+2,2,Black and Brown,Male,566,No,Deshi,Sharifganj,228580
+2,4,Cross,Male,350.0588887,No,Hybrid,Pabna,229104.0422
+1,2,Red,Male,430.2723185,No,Holstein Cross,Kishoreganj,229146.6545
+2,2,Red,Male,389,No,Shahiwal,Gazipur,229200
+3,5,White,Male,1,No,Brahma cross,Tebunia,229227
+2,4,Red,Male,374.9640628,Yes,Deshi,Chittagong,229925.8044
+2,2,Ash,Male,242,No,Deshal,Mymenshing,230000
+3,6,Red,Male,362.486904,No,Holstein Cross,Nilfamari,230043.2054
+1,2,Mixed,Male,448.0706362,Yes,Brahma,Kurigram,230175.8134
+5,7,Red,Male,490.1019788,Yes,Shahiwal,Mymenshing,230772.5701
+2,3,Black,Male,438.4218725,Yes,Jersey,Rangpur,230897.6355
+2,3,Black and White,Female,349,No,Hybrid,Mirpur,231385
+4,7,Red,Male,304.3450302,Yes,Deshal,Mymenshing,231465.1295
+4,6,Brown,Female,175,No,Pakri,Chittagong,231590
+3,6,Black,Female,411,No,Jersey,Sharifganj,231952
+4,8,Mixed,Female,479.3794522,No,Deshi,Mymenshing,232186.089
+2,3,Red,Male,370,Yes,Deshi,Dhaka,233000
+2,3,Black,Male,378,Yes,Holstein Cross,Dhaka,233000
+3,6,Ash,Male,213,Yes,Cross,Naogaon,233539
+2,4,Ash,Female,435,Yes,Holstein Friesian,Pabna,233733
+3,5,Black and Brown,Male,577,No,Pakri,Sylhet,233735
+4,7,Red,Male,352.1332221,No,Local,Sabujbagh,233937.993
+1,2,Light Red,Male,414.067904,No,Deshal,Dhaka,234387.4719
+2,2,Cross,Male,454.0734522,No,Deshal,Gazipur,234430.7368
+4,8,Black and White,Female,442.5162309,No,Jersey,Kurigram,234872.6825
+1,2,White,Female,369,Yes,Local,Sylhet,234941
+2,3,Mixed,Male,382.5588008,Yes,Brahma cross,Mymenshing,235011.9656
+2,3,Black and White,Female,427.0220347,Yes,Brahma,Kurigram,235385.3883
+2,2,Brown,Male,396.7030375,Yes,Deshal,Dhaka,235852.829
+2,4,Cross,Male,400,Yes,Shahiwal,Kurigram,236600
+4,6,Red,Male,352.8003774,No,Nafimoni,Sabujbagh,236806.5082
+2,2,Red and Brown,Male,139,No,Shahiwal,Sharifganj,238313
+2,3,Brown,Male,417,Yes,Holstein Cross,Gazipur,238450
+2,4,Red and Brown,Male,283,Yes,Jersey,Tebunia,238611
+2,3,Red,Male,413.9911615,Yes,Jersey,Tebunia,239289.1552
+1,2,Red,Female,407.8096811,No,Brahma cross,Sabujbagh,239488.9172
+5,7,Red,Female,378.3940595,Yes,Deshal,Kurigram,239521.2802
+5,7,Cross,Female,307.6529492,Yes,Nepali,Kushtia,239538.6296
+2,2,Brown,Male,447,Yes,Deshi,Tebunia,239638
+3,6,Black,Male,464.7817063,Yes,Holstein Cross,Gazipur,240625.6799
+1,2,Red and Brown,Male,433,Yes,Deshi,Dhaka,241030
+2,3,Red and Brown,Male,549.0805928,No,Holstein Cross,Kurigram,241038.7533
+2,4,Black and White,Male,251,No,Pakri,Kishoreganj,241135
+5,7,Black,Male,471.7411398,Yes,Pakri,Naogaon,241261.4432
+4,7,Black and Brown,Female,367,Yes,Jersey,Narayanganj,241872
+3,6,Ash,Male,406,Yes,Holstein Cross,Tebunia,242200
+2,3,Cross,Female,258,No,Brahma cross,Kurigram,242482
+1,2,Cross,Male,374.6031494,No,Holstein Cross,Naogaon,243129.7371
+2,2,Dark Red,Female,556,No,Holstein Friesian,Kushtia,243136
+3,6,Red,Female,324,Yes,Nafimoni,Kishoreganj,243496
+3,5,White and Red,Female,155,No,Shahiwal,Mymenshing,243500
+1,2,Black and Brown,Female,466,Yes,Deshi,Nilfamari,243856
+2,4,Brown,Male,469,No,Aus,Kushtia,244195
+3,6,Black,Male,408.3891873,Yes,Deshal,Mymenshing,244255.5037
+5,7,Light Red,Male,325.9750316,Yes,Deshal,Nilfamari,244485.0648
+4,8,Dark Red,Female,436,No,Jersey,Nilfamari,245039
+5,7,White and Red,Male,559.9788032,Yes,Pakri,Gazipur,245134.9243
+2,3,Brown,Male,575.5634803,Yes,Deshal,Mymenshing,245252.8899
+1,2,Black and White,Male,376.4994385,No,Deshal,Kurigram,245571.2283
+3,5,Black,Female,468.1013688,Yes,Holstein Cross,Narayanganj,245626.7107
+2,3,Black,Male,395,Yes,Holstein Cross,Dhaka,246000
+3,6,Red and Brown,Male,682.1082386,Yes,Deshal,Tebunia,246042.4056
+5,7,Black and White,Male,465.2926876,Yes,Brahma,Naogaon,246090.4874
+2,2,White and Red,Female,483,No,Jersey,Narayanganj,246344
+5,7,White,Female,472.2684349,Yes,Local,Mymenshing,246773.1297
+3,5,Black,Male,392.5773862,No,Shahiwal,Kurigram,247337.0881
+3,6,Red and Brown,Male,479.4448142,No,Cross,Naogaon,247582.1153
+3,5,Ash,Male,175,No,Hybrid,Mymenshing,248107
+2,4,Black and Brown,Female,248,No,Shahiwal,Kushtia,248139
+2,4,White,Male,507,No,Holstein Cross,Tebunia,248200
+3,6,Black,Male,435.2792381,Yes,Deshal,Mymenshing,249354.7737
+3,6,Red,Male,8,Yes,Local,Sabujbagh,250000
+3,5,Cross,Male,396,Yes,Deshal,Gazipur,250000
+5,7,Ash,Female,443.4913187,No,Deshal,Dhaka,250484.5613
+1,2,Ash,Male,449.6294462,Yes,Local,Gazipur,251014.2973
+1,2,Brown,Male,422.0909078,Yes,Local,Sharifganj,252044.7566
+4,6,Red,Male,634.6928375,Yes,Brahma,Mirpur,253271.3096
+2,2,Brown,Male,400,No,Holstein Cross,Mymenshing,253490
+1,2,Red,Female,589.6400604,Yes,Deshi,Nilfamari,253661.5977
+2,4,Black,Male,571.3035006,Yes,Deshi,Dhaka,254021.1207
+2,3,White,Male,436,Yes,Deshal,Kushtia,254050
+5,7,White,Male,432.1667376,Yes,Holstein Cross,Dhaka,254111.5807
+5,7,Red,Male,471.9208028,No,Aus,Narayanganj,254174.5699
+2,3,Ash,Female,442.5158412,Yes,Holstein Cross,Nilfamari,255097.0152
+2,3,White,Male,394.7234654,Yes,Hybrid,Kushtia,255833.6847
+2,4,Red,Female,539.1184625,No,Hybrid,Narayanganj,256243.305
+3,4,Brown,Male,643.0076493,Yes,Shahiwal,Kishoreganj,256586.9763
+2,4,Red,Male,371.8186095,No,Deshal,Mymenshing,257666.5622
+1,2,Black,Male,666.7901546,No,Deshi,Kushtia,257745.8146
+2,2,Ash,Male,235,Yes,Deshal,Kurigram,258312
+5,7,Black,Male,640.0530332,No,Cross,Naogaon,258424.8143
+2,2,Black and White,Male,644.336411,Yes,Deshi,Kurigram,259032.3238
+3,5,White and Red,Male,259,No,Holstein Friesian,Gazipur,259139
+2,4,Light Red,Female,1,Yes,Cross,Kurigram,259159
+3,6,Red,Female,430.909944,Yes,Deshi,Sharifganj,259211.0647
+3,6,Red,Male,410.9476872,No,Aus,Tebunia,259513.0763
+2,2,Red,Male,642.7635025,Yes,Deshi,Narayanganj,259571.9464
+1,2,Ash,Male,484.4712214,Yes,Holstein Cross,Mirpur,259574.4798
+3,4,Black,Male,495,Yes,Jersey,Naogaon,259875
+2,2,White and Red,Male,213,Yes,Deshi,Kurigram,260640
+4,7,Black,Male,433.9543885,Yes,Cross,Kurigram,261332.4971
+3,6,Ash,Female,268,No,Aus,Gazipur,261737
+3,6,Ash,Male,616,Yes,Deshal,Mymenshing,261753
+5,7,Ash,Male,544.7366096,Yes,Nepali,Kurigram,261812.2731
+1,2,Ash,Female,606.7904747,Yes,Holstein Cross,Mymenshing,261876.1466
+3,5,Light Red,Male,427,No,Aus,Chittagong,261925
+3,6,Light Red,Male,449,Yes,Holstein Friesian,Kishoreganj,262228
+3,6,Mixed,Male,487.1974792,No,Deshal,Kishoreganj,262385.2997
+2,2,Black,Male,476,Yes,Holstein Cross,Kushtia,262650
+2,2,White and Red,Male,467,No,Shahiwal,Nilfamari,263547
+1,2,White and Red,Female,390.8927927,No,Shahiwal,Pabna,263953.9265
+4,6,White,Male,471.6936225,Yes,Holstein Cross,Sabujbagh,263979.8013
+2,4,Black and Brown,Male,420,Yes,Deshi,Dhaka,264000
+2,2,Ash,Male,420,Yes,Deshal,Gazipur,264000
+2,4,White,Male,441,Yes,Holstein Cross,Tebunia,264200
+2,2,Dark Red,Male,438.0895768,Yes,Holstein Cross,Rangpur,264361.9771
+5,7,Cross,Male,399.5616692,Yes,Local,Nilfamari,265231.7611
+3,4,Black and White,Male,761.9256207,Yes,Brahma cross,Sylhet,265277.9218
+3,5,White,Female,180,Yes,Deshal,Gazipur,265340
+2,3,Red,Male,469,Yes,Holstein Cross,Gazipur,265450
+3,5,Dark Red,Female,1,No,Aus,Mirpur,265792
+2,3,Red,Female,286,No,Nepali,Kishoreganj,266219
+4,6,Brown,Male,542.3503966,Yes,Deshi,Kushtia,266474.8785
+5,7,Ash,Male,445.4711607,Yes,Brahma cross,Pabna,266487.2877
+3,4,Black,Female,494.1631212,Yes,Pakri,Naogaon,266714.9038
+5,7,White,Male,514.0727545,No,Shahiwal,Mymenshing,267063.9911
+4,7,Light Red,Male,448.7878901,No,Deshal,Mymenshing,267447.1574
+5,7,White and Red,Male,789.228674,Yes,Shahiwal,Kishoreganj,269097.6948
+1,2,White,Male,452.5821964,No,Deshi,Tebunia,269156.1219
+3,5,Black and Brown,Male,505,No,Brahma,Mirpur,269513
+3,6,Black and Brown,Female,454.8027133,No,Jersey,Mymenshing,270280.0851
+3,6,Mixed,Female,103,No,Shahiwal,Dhaka,270426
+1,2,Cross,Male,672.2538457,No,Deshal,Gazipur,270539.2831
+2,3,Red,Female,602.7610073,No,Shahiwal,Kurigram,271096.7739
+2,2,Cross,Male,582,No,Holstein Cross,Kushtia,271300
+5,7,White,Male,666.1449491,No,Local,Pabna,271829.2253
+3,5,Red,Male,604,Yes,Hybrid,Gazipur,272137
+3,6,Black,Female,251,No,Nafimoni,Gazipur,272259
+3,4,Black and White,Male,701.2933443,Yes,Holstein Cross,Mymenshing,272358.1014
+3,6,Red,Female,366.6317051,No,Holstein Friesian,Naogaon,272421.6906
+1,2,Cross,Female,525,No,Holstein Friesian,Sabujbagh,272820
+3,6,Mixed,Female,558.7891032,Yes,Deshi,Naogaon,273357.7881
+2,2,Ash,Male,1,No,Cross,Sylhet,274009
+5,7,White,Male,505.4501404,No,Brahma,Chittagong,274280.429
+2,3,Red,Male,547,Yes,Holstein Cross,Kushtia,275300
+3,6,Red and Brown,Male,568.4956865,Yes,Jersey,Sabujbagh,275664.4794
+2,4,Cross,Male,570,No,Holstein Cross,Kushtia,275850
+2,2,Black,Male,447,Yes,Holstein Cross,Dhaka,276000
+2,4,Ash,Female,273,No,Hybrid,Mymenshing,276038
+2,4,Ash,Male,421,Yes,Deshal,Mymenshing,276500
+2,3,Ash,Male,447,Yes,Deshal,Gazipur,276850
+2,2,Black and Brown,Female,111,Yes,Holstein Friesian,Sabujbagh,276970
+3,5,Mixed,Male,47,No,Holstein Cross,Sabujbagh,278452
+1,2,Black and Brown,Male,496.497083,No,Shahiwal,Nilfamari,278628.305
+2,4,White,Male,454.4739989,Yes,Deshal,Kushtia,278836.9879
+2,3,Ash,Female,309,Yes,Shahiwal,Tebunia,278852
+2,4,Black,Male,447,Yes,Holstein Cross,Dhaka,279000
+2,2,Black,Male,447,Yes,Holstein Cross,Kushtia,279000
+3,6,Ash,Female,420.1177105,No,Deshal,Tebunia,279834.0707
+3,5,Black,Female,538.7858684,Yes,Aus,Nilfamari,279955.424
+4,8,Red,Male,560,Yes,Shahiwal,Sylhet,280000
+5,7,Red,Female,583.2754895,Yes,Holstein Cross,Mymenshing,280735.5764
+1,2,Cross,Male,649.5416047,Yes,Deshal,Dhaka,280818.0681
+2,4,Light Red,Female,492.0523171,Yes,Local,Mymenshing,280901.6316
+4,6,White,Male,329,Yes,Shahiwal,Bogura,281680
+1,2,Red,Male,510.3287047,Yes,Deshal,Mirpur,281873.2868
+3,4,Cross,Male,575.2653904,Yes,Deshi,Tebunia,283038.1292
+3,6,Light Red,Female,564,No,Nafimoni,Kushtia,283240
+1,2,Red,Male,615.9608538,No,Cross,Kurigram,283769.5305
+2,3,Dark Red,Male,450,Yes,Shahiwal,Gazipur,283881
+2,2,Ash,Male,532.6940011,Yes,Shahiwal,Mymenshing,284979.7431
+1,2,Cross,Male,541.8330895,Yes,Cross,Mymenshing,285730.6968
+2,2,Red,Female,758.1205331,Yes,Shahiwal,Kurigram,286514.9281
+5,7,Red,Male,502.1906228,Yes,Shahiwal,Mymenshing,286665.0815
+4,8,Black and White,Male,639.3207658,No,Shahiwal,Kurigram,286914.2258
+3,6,Black,Male,470,Yes,Holstein Cross,Dhaka,287000
+3,6,Black,Male,471,Yes,Holstein Cross,Kushtia,287000
+2,2,Brown,Male,376.7435564,Yes,Deshi,Dhaka,287408.3003
+2,4,Black and Brown,Female,4,Yes,Cross,Gazipur,288338
+2,2,Black and White,Female,199,No,Deshal,Chittagong,288502
+3,5,Red,Male,559,No,Holstein Cross,Gazipur,288950
+2,3,Cross,Male,449,No,Deshal,Kurigram,289400
+5,7,Mixed,Male,707.3639698,Yes,Shahiwal,Sharifganj,289868.7045
+3,6,Black and Brown,Male,454.1507143,Yes,Holstein Cross,Sabujbagh,290317.1938
+1,2,White,Female,503.370704,No,Shahiwal,Kurigram,290847.6284
+2,3,Red,Male,565.378723,Yes,Brahma,Tebunia,291056.1869
+1,2,Red,Female,478.7701399,No,Deshal,Naogaon,292653.2254
+3,4,Black and White,Female,158,No,Nepali,Sylhet,292911
+1,2,Black,Male,466.0712836,Yes,Deshal,Mymenshing,293049.9535
+2,3,Dark Red,Male,38,No,Brahma cross,Rangpur,293521
+2,3,Black,Male,508,No,Holstein Cross,Kurigram,294600
+2,2,White and Red,Female,225,No,Jersey,Chittagong,294974
+2,3,Red,Male,313,No,Deshi,Dhaka,295000
+3,5,Ash,Female,665,Yes,Shahiwal,Kushtia,295202
+4,6,Red,Male,600.875967,No,Deshal,Gazipur,296286.311
+1,2,Mixed,Male,574.4300021,Yes,Deshal,Pabna,297005.9342
+2,3,Red and Brown,Male,508.2494201,No,Holstein Cross,Narayanganj,299063.6293
+3,4,Light Red,Male,575,No,Nepali,Kurigram,299536
+4,6,Red,Male,515.2189701,Yes,Nafimoni,Mymenshing,299789.4151
+3,5,Red,Male,727.0898947,Yes,Deshal,Kurigram,299920.5267
+2,2,White,Male,467,No,Holstein Cross,Gazipur,299950
+2,2,Black,Male,4.5,Yes,Local,Mymenshing,300000
+2,4,Black and White,Male,240,Yes,Holstein Friesian,Dhaka,300000
+3,5,Brown,Male,501,No,Holstein Cross,Tebunia,300400
+2,4,Black,Male,482,Yes,Holstein Cross,Kurigram,300600
+2,3,Red and Brown,Female,315,Yes,Hybrid,Rangpur,301725
+3,5,Ash,Female,359,No,Shahiwal,Kishoreganj,302983
+1,2,Ash,Male,555.9605639,No,Holstein Cross,Sylhet,303627.0581
+4,8,Dark Red,Male,715.2544529,No,Holstein Cross,Mymenshing,305967.8098
+3,4,Red,Male,512.3010046,Yes,Deshal,Mymenshing,306063.3255
+1,2,Cross,Male,719.284202,No,Nafimoni,Kushtia,306292.8724
+3,6,Brown,Female,570.4369613,No,Deshal,Nilfamari,306308.6183
+5,7,Red,Female,606.3255227,No,Holstein Friesian,Chittagong,306980.506
+3,4,Red,Female,347,No,Aus,Gazipur,307056
+2,2,White,Male,592,No,Holstein Cross,Gazipur,307150
+1,2,Ash,Female,573.5742506,Yes,Shahiwal,Kishoreganj,307565.3583
+3,5,Red,Male,218,Yes,Deshi,Sylhet,308031
+2,4,Ash,Male,555.4368165,Yes,Shahiwal,Dhaka,309634.8251
+3,4,Brown,Male,648,Yes,Holstein Cross,Mymenshing,309700
+4,8,Black and White,Female,662.5599839,Yes,Deshal,Kushtia,310606.4825
+3,5,Ash,Male,340,Yes,Aus,Narayanganj,312609
+2,2,Black and Brown,Female,499,No,Cross,Sabujbagh,314738
+5,7,Brown,Female,566.0436594,Yes,Local,Tebunia,314820.1445
+4,7,Brown,Male,20,Yes,Deshi,Sharifganj,316796
+3,4,White and Red,Female,691,Yes,Pakri,Pabna,316906
+2,4,Brown,Male,704,Yes,Holstein Cross,Kurigram,317800
+4,6,Red,Male,498.0243354,Yes,Local,Naogaon,318254.9315
+1,2,Black,Male,784.5259546,No,Nafimoni,Gazipur,318979.869
+2,2,White,Female,467.0432344,Yes,Cross,Tebunia,319294.787
+2,4,Cross,Male,414.0115737,Yes,Hybrid,Dhaka,319353.0422
+3,4,Red,Male,500,No,Holstein Cross,Tebunia,319800
+2,2,Red and Brown,Male,289,Yes,Deshi,Sylhet,320116
+2,2,Mixed,Male,520,Yes,Holstein Cross,Nilfamari,320262
+3,5,Cross,Male,468.9171373,Yes,Brahma cross,Kurigram,321701.4545
+3,5,Mixed,Female,283,Yes,Nepali,Mirpur,321951
+5,7,Red,Female,551.2173642,Yes,Shahiwal,Bogura,322098.6007
+3,6,White and Red,Female,114,No,Holstein Friesian,Kurigram,322495
+3,4,Mixed,Female,377,Yes,Local,Gazipur,322903
+4,6,Black and White,Male,327,Yes,Shahiwal,Naogaon,323086
+4,8,White,Female,581.9150289,Yes,Holstein Cross,Bogura,323583.6579
+3,4,Black and White,Male,604.1618559,No,Deshal,Tebunia,323776.1554
+4,7,White,Male,660.1885778,No,Local,Kurigram,324534.3101
+4,6,Cross,Male,767.9653272,No,Holstein Cross,Gazipur,324835.5721
+4,8,Red,Female,496.2006384,Yes,Deshal,Mymenshing,324867.2589
+4,7,Black,Female,669.3661038,Yes,Deshi,Naogaon,325026.7337
+2,3,Cross,Male,507.5388508,Yes,Brahma cross,Naogaon,325340.7543
+2,4,Dark Red,Male,188,Yes,Nafimoni,Sharifganj,325561
+5,7,Black and Brown,Female,484.8487534,Yes,Jersey,Mymenshing,327407.8376
+1,2,Light Red,Male,617.7296859,Yes,Deshal,Chittagong,327418.1506
+4,7,Red,Male,541.9000331,No,Deshi,Mirpur,327524.3362
+2,4,Black and Brown,Female,199,Yes,Nafimoni,Mirpur,327719
+4,8,Dark Red,Female,553,No,Hybrid,Naogaon,328675
+2,2,White and Red,Male,88,No,Pakri,Sharifganj,329040
+5,7,Black and Brown,Female,606.076366,Yes,Shahiwal,Gazipur,329059.3048
+4,8,Mixed,Male,555.4445387,No,Aus,Sharifganj,329062.3734
+3,6,Red and Brown,Male,519.123647,No,Shahiwal,Mymenshing,329263.0158
+1,2,Ash,Male,624.4732973,Yes,Deshi,Sylhet,329820.5989
+2,4,Black,Female,328,No,Deshal,Mirpur,331050
+3,6,Black and Brown,Female,462,No,Pakri,Dhaka,331174
+3,6,Black and White,Male,649,Yes,Cross,Mymenshing,331277
+5,7,Red,Male,669.9814502,Yes,Shahiwal,Mymenshing,331620.9065
+5,7,Cross,Male,554.0056043,Yes,Deshal,Pabna,331766.7546
+2,4,Black and Brown,Female,547.6129885,Yes,Deshal,Mymenshing,332167.2456
+3,4,Cross,Male,738,Yes,Holstein Cross,Tebunia,332400
+3,6,Cross,Male,614,No,Holstein Cross,Gazipur,332850
+1,2,Cross,Female,307,Yes,Shahiwal,Mirpur,333919
+2,4,Red,Male,340,Yes,Local,Pabna,334354
+4,8,White,Female,386,Yes,Aus,Gazipur,336610
+2,2,Mixed,Male,622.6509584,Yes,Nepali,Mymenshing,336668.0912
+3,4,Mixed,Male,783.1900436,No,Holstein Friesian,Mirpur,337288.0604
+2,4,White and Red,Male,542,No,Deshal,Rangpur,337643
+2,4,Ash,Male,587.4770892,Yes,Deshal,Bogura,338095.4455
+5,7,Red,Male,647.0372439,Yes,Shahiwal,Mymenshing,339900.6159
+1,2,Cross,Male,588.7572727,Yes,Deshal,Mirpur,340507.9666
+2,4,Black,Male,572.284503,No,Cross,Mirpur,341799.6644
+3,4,Red,Male,630.9670216,Yes,Holstein Friesian,Sabujbagh,343213.5143
+3,4,Black,Male,550,No,Holstein Cross,Gazipur,343300
+3,6,Black and White,Male,303,No,Holstein Friesian,Rangpur,343877
+4,6,Black,Male,675.7353884,Yes,Brahma cross,Sharifganj,344085.591
+4,8,Light Red,Male,590.6699685,Yes,Holstein Cross,Tebunia,344643.8928
+3,5,Red,Male,549.5475085,Yes,Jersey,Gazipur,344958.7099
+5,7,Light Red,Female,788.5693841,No,Cross,Gazipur,346607.1282
+4,8,Black and White,Female,525.8654761,Yes,Holstein Cross,Mymenshing,347136.9529
+3,4,White,Male,657,Yes,Holstein Cross,Mymenshing,348350
+2,2,Ash,Female,527,Yes,Brahma,Nilfamari,348536
+1,2,Cross,Male,794.9105258,Yes,Deshal,Gazipur,350420.7098
+5,7,Brown,Male,699.873329,Yes,Cross,Kurigram,350912.5025
+2,4,Black and White,Female,453,No,Aus,Gazipur,351704
+1,2,Red and Brown,Male,584.7369036,Yes,Brahma,Mymenshing,351759.6669
+4,7,White,Female,630.9864877,No,Holstein Cross,Dhaka,352246.7581
+2,2,Red,Male,607.7893698,Yes,Shahiwal,Dhaka,352277.3132
+5,7,Red,Male,730.00985,No,Jersey,Dhaka,353021.0496
+4,6,Mixed,Male,608.5705872,No,Shahiwal,Kishoreganj,353240.4419
+2,3,White,Male,683,Yes,Holstein Cross,Mymenshing,353850
+2,3,White,Male,547,Yes,Holstein Cross,Gazipur,354800
+2,2,Red,Female,742.5896511,No,Cross,Gazipur,355018.5
+3,4,Brown,Male,625.528673,Yes,Deshi,Pabna,356742.9349
+3,5,Black,Male,663.345964,No,Cross,Mymenshing,356973.1018
+2,4,Light Red,Male,635.0252743,Yes,Deshi,Bogura,357729.9179
+4,6,Cross,Male,788.0053374,No,Brahma,Bogura,361080.1419
+2,4,Red and Brown,Female,365,No,Hybrid,Gazipur,361458
+2,4,Cross,Male,661.1435493,Yes,Holstein Cross,Dhaka,361849.6233
+3,5,Red,Male,608,No,Holstein Cross,Mymenshing,363650
+2,4,Black,Male,603,No,Holstein Cross,Kurigram,364100
+2,3,Cross,Male,656,No,Holstein Cross,Kushtia,364850
+5,7,White,Male,782.3402683,Yes,Brahma,Sylhet,365162.859
+3,4,White,Female,750.4259755,No,Cross,Mymenshing,365308.471
+2,3,Black and White,Male,826.3946692,No,Deshal,Nilfamari,366900.6324
+1,2,Cross,Female,743.7058701,Yes,Local,Sharifganj,368005.0868
+5,7,Mixed,Male,750.3525905,Yes,Holstein Cross,Mymenshing,368304.4134
+2,2,White and Red,Male,149,Yes,Nafimoni,Rangpur,368564
+3,5,Black,Male,717.0336725,Yes,Shahiwal,Gazipur,368865.8202
+4,6,Cross,Male,787.6975441,No,Deshal,Tebunia,369634.9566
+3,4,White,Female,278,Yes,Cross,Kushtia,374198
+5,7,Ash,Male,728.7547862,No,Deshal,Gazipur,375306.4883
+1,2,Red,Male,720.5379439,Yes,Shahiwal,Gazipur,376429.4496
+2,3,White,Male,774,Yes,Holstein Cross,Mymenshing,376650
+1,2,Black,Female,605.798393,No,Shahiwal,Kishoreganj,378398.8706
+2,2,Light Red,Male,315,No,Holstein Friesian,Dhaka,378484
+1,2,Cross,Male,652.8401314,Yes,Shahiwal,Kurigram,379850.0709
+3,5,Brown,Male,294,No,Brahma,Sylhet,379985
+3,5,Red,Male,626,Yes,Holstein Cross,Tebunia,384350
+5,7,Red,Male,641.281629,Yes,Deshi,Gazipur,385505.3236
+2,3,Red,Male,728,Yes,Holstein Cross,Mymenshing,386200
+3,4,Red,Female,286,Yes,Brahma cross,Sabujbagh,386870
+3,4,Red,Male,620,No,Holstein Cross,Kushtia,388450
+2,3,Ash,Male,692,No,Holstein Cross,Mymenshing,388800
+4,8,Black and Brown,Female,678.9454163,Yes,Shahiwal,Naogaon,390431.1555
+5,7,Cross,Female,577.9810124,No,Hybrid,Sharifganj,391201.5374
+3,6,Black,Male,684.0784917,Yes,Nepali,Bogura,395420.1879
+3,4,Red,Male,618.737294,No,Holstein Cross,Mymenshing,395675.8626
+2,4,Dark Red,Male,351,No,Brahma,Mymenshing,398639
+3,5,White,Male,238,No,Cross,Mymenshing,399452
+3,6,Ash,Male,731,No,Holstein Cross,Kushtia,401550
+1,2,Brown,Female,174,Yes,Hybrid,Nilfamari,401563
+2,4,Brown,Male,621,No,Holstein Cross,Kushtia,402800
+2,3,Dark Red,Male,654.3867516,No,Holstein Cross,Kurigram,405455.3274
+2,2,Black and White,Male,670,Yes,Holstein Cross,Dhaka,406000
+2,2,Cross,Male,670,Yes,Holstein Cross,Kushtia,406000
+3,4,White and Red,Female,725.4630505,Yes,Deshi,Sabujbagh,406185.6213
+2,2,Red,Male,699,Yes,Holstein Cross,Kushtia,406850
+2,4,Red and Brown,Male,702.509831,No,Deshal,Gazipur,406897.2607
+2,3,Cross,Male,719,Yes,Holstein Cross,Gazipur,408350
+4,7,Cross,Male,825.8190759,Yes,Local,Nilfamari,408851.9503
+3,6,Cross,Male,815.004134,Yes,Deshal,Naogaon,410148.6723
+4,6,Red,Male,759.6293845,No,Deshi,Mymenshing,410478.3699
+2,4,Red,Male,345,No,Nafimoni,Sharifganj,410522
+2,3,Brown,Male,808,No,Holstein Cross,Mymenshing,410550
+2,2,Light Red,Male,710.9168478,No,Shahiwal,Gazipur,412938.9503
+2,2,Red,Male,719,Yes,Holstein Cross,Kurigram,413900
+1,2,White,Male,664.1585611,Yes,Local,Tebunia,414080.0296
+2,4,Black and White,Male,665,Yes,Holstein Cross,Dhaka,415000
+2,4,Cross,Male,665,Yes,Holstein Cross,Kushtia,415000
+2,4,Ash,Male,797,No,Holstein Cross,Gazipur,415500
+2,4,Black and White,Male,690,Yes,Holstein Cross,Dhaka,419000
+2,3,Cross,Male,690,Yes,Holstein Cross,Kushtia,419000
+3,6,Cross,Male,822,No,Holstein Cross,Mymenshing,424100
+2,4,Black,Male,707.1240109,Yes,Holstein Cross,Mymenshing,428681.9969
+3,5,Brown,Male,748,Yes,Holstein Cross,Gazipur,431650
+3,6,Mixed,Female,487,Yes,Jersey,Mymenshing,433739
+2,4,Cross,Male,715,Yes,Holstein Cross,Kushtia,435000
+4,7,Red,Male,759.9851255,Yes,Pakri,Kushtia,440854.3874
+2,2,Red,Male,751,No,Holstein Cross,Mymenshing,444400
+3,6,Red,Female,609.5540351,No,Deshal,Gazipur,445350.6497
+5,7,Ash,Male,710.1698442,No,Local,Kurigram,446370.9923
+5,7,Black,Female,705.7954966,Yes,Deshal,Kushtia,456651.5192
+5,7,White and Red,Male,758.7597551,No,Deshal,Tebunia,459037.4929
+2,4,Brown,Male,800.0682203,Yes,Deshi,Dhaka,460592.1259
+3,4,Red,Male,754,No,Holstein Cross,Kushtia,460950
+5,7,Red and Brown,Male,710.4405082,Yes,Pakri,Tebunia,464472.1677
+2,4,Cross,Male,731,Yes,Holstein Cross,Kushtia,465000
+3,6,Black and White,Male,800,Yes,Holstein Cross,Dhaka,490000
+3,4,Cross,Male,800,Yes,Holstein Cross,Kushtia,490000
+2,2,Brown,Female,764.8882063,Yes,Local,Nilfamari,490439.7011
+2,3,Black,Male,768,No,Holstein Cross,Gazipur,498200
+3,6,White,Male,808,No,Holstein Cross,Mymenshing,505550
+5,7,Black,Male,770.8848886,Yes,Deshi,Mymenshing,507567.6363
